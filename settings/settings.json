@@ -1,0 +1,15 @@
+{
+	"active":3600,
+	"advanced_logging":false,
+	"notification_email":"acomerford@albany.edu",
+	"refresh":2,
+	"dates":{
+		"9/30/16-10/31/16":{
+			"all":{
+				"hours":{
+					"all":["TempTake"]
+				}
+			}
+		}
+	}
+}

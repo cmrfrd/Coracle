@@ -1,0 +1,135 @@
+2016-09-15 22:01:07,553 - parser - ERROR - No filepath found or provided in <class 'parser.Settings_Parser'>
+2016-09-15 23:59:01,561 - parser - ERROR - No filepath found or provided in <class 'parser.Settings_Parser'>
+2016-09-16 00:01:19,663 - parser - ERROR - Invalid type <type 'int'> for 'logging'
+2016-09-16 00:07:05,012 - parser - ERROR - Invalid type <type 'int'> for 'logging'
+2016-09-16 07:34:56,637 - parser - ERROR - Invalid type <type 'int'> for 'logging'
+2016-09-16 07:38:55,706 - parser - ERROR - Invalid type <type 'int'> for 'logging'
+2016-09-17 19:47:10,910 - parser - ERROR - Invalid type <type 'int'> for 'logging'
+2016-10-01 13:41:00,851 - outlookclient - ERROR - Login failure with imap
+2016-10-01 13:41:31,907 - outlookclient - ERROR - Login failure with imap
+2016-10-01 13:44:08,116 - outlookclient - ERROR - Unable to login with username and password provided by user
+2016-10-01 13:44:08,117 - outlookclient - ERROR - Login failure with imap
+2016-10-01 13:44:32,086 - outlookclient - ERROR - Unable to login with username and password provided by user
+2016-10-01 13:44:32,091 - outlookclient - ERROR - Login failure with imap
+2016-10-01 13:45:46,848 - outlookclient - ERROR - Unable to login with username and password provided by user
+2016-10-01 13:45:46,853 - outlookclient - ERROR - Login failure with imap
+2016-10-01 13:48:09,201 - outlookclient - ERROR - Unable to login with username and password provided by user
+2016-10-01 13:48:09,209 - outlookclient - ERROR - Login failure with imap
+2016-10-01 13:48:09,216 - outlookclient - ERROR - Login failure with imap
+2016-10-01 13:48:09,221 - outlookclient - ERROR - Login failure with imap
+2016-10-01 13:48:09,225 - outlookclient - ERROR - Login failure with imap
+2016-10-01 13:48:09,226 - outlookclient - ERROR - Login failure with imap
+2016-10-01 13:48:09,226 - outlookclient - ERROR - Login failure with imap
+2016-10-01 13:48:09,227 - outlookclient - ERROR - Login failure with imap
+2016-10-01 13:48:09,228 - outlookclient - ERROR - Login failure with imap
+2016-10-01 13:48:09,228 - outlookclient - ERROR - Login failure with imap
+2016-10-01 13:48:09,229 - outlookclient - ERROR - Login failure with imap
+2016-10-01 13:49:44,952 - outlookclient - ERROR - Unable to login with username and password provided by user
+2016-10-01 13:49:44,953 - outlookclient - ERROR - Login failure with imap
+2016-10-01 13:49:44,954 - outlookclient - ERROR - Login failure with imap
+2016-10-01 13:49:44,955 - outlookclient - ERROR - Login failure with imap
+2016-10-01 13:49:44,955 - outlookclient - ERROR - Login failure with imap
+2016-10-01 13:49:44,956 - outlookclient - ERROR - Login failure with imap
+2016-10-01 13:49:44,957 - outlookclient - ERROR - Login failure with imap
+2016-10-01 13:49:44,957 - outlookclient - ERROR - Login failure with imap
+2016-10-01 13:49:44,958 - outlookclient - ERROR - Login failure with imap
+2016-10-01 13:49:44,959 - outlookclient - ERROR - Login failure with imap
+2016-10-01 13:49:44,959 - outlookclient - ERROR - Login failure with imap
+2016-10-01 13:51:18,306 - outlookclient - ERROR - Unable to login with username and password provided by user
+2016-10-01 13:51:18,316 - outlookclient - ERROR - Attempt #1, login failure with imap
+2016-10-01 13:51:18,330 - outlookclient - ERROR - Attempt #2, login failure with imap
+2016-10-01 13:51:18,336 - outlookclient - ERROR - Attempt #3, login failure with imap
+2016-10-01 13:51:18,337 - outlookclient - ERROR - Attempt #4, login failure with imap
+2016-10-01 13:51:18,339 - outlookclient - ERROR - Attempt #5, login failure with imap
+2016-10-01 13:51:18,340 - outlookclient - ERROR - Attempt #6, login failure with imap
+2016-10-01 13:51:18,341 - outlookclient - ERROR - Attempt #7, login failure with imap
+2016-10-01 13:51:18,343 - outlookclient - ERROR - Attempt #8, login failure with imap
+2016-10-01 13:51:18,344 - outlookclient - ERROR - Attempt #9, login failure with imap
+2016-10-01 13:51:18,345 - outlookclient - ERROR - Attempt #10, login failure with imap
+2016-10-01 13:52:30,467 - outlookclient - ERROR - Recieved not okay response.
+2016-10-01 13:52:30,471 - outlookclient - ERROR - Unable to login with username and password provided by user
+2016-10-01 13:52:30,475 - outlookclient - ERROR - Login Success to outlook.office365.com
+2016-10-01 14:43:22,603 - outlookclient - ERROR - Initializing imap client
+2016-10-01 14:43:22,605 - outlookclient - ERROR - Unable to initialize imap client
+2016-10-01 22:44:26,660 - outlookclient - ERROR - Recieved not okay response.
+2016-10-01 22:44:26,666 - outlookclient - ERROR - Unable to login with username and password provided by user
+2016-10-01 22:44:26,667 - outlookclient - ERROR - Attempt #1, login failure: 'module' object has no attribute 'abort'
+2016-10-01 22:44:26,669 - outlookclient - ERROR - Attempt #2, login failure: command LOGIN illegal in state AUTH, only allowed in states NONAUTH
+2016-10-01 22:44:26,671 - outlookclient - ERROR - Attempt #3, login failure: command LOGIN illegal in state AUTH, only allowed in states NONAUTH
+2016-10-01 22:44:26,673 - outlookclient - ERROR - Attempt #4, login failure: command LOGIN illegal in state AUTH, only allowed in states NONAUTH
+2016-10-01 22:44:26,675 - outlookclient - ERROR - Attempt #5, login failure: command LOGIN illegal in state AUTH, only allowed in states NONAUTH
+2016-10-01 22:44:26,677 - outlookclient - ERROR - Attempt #6, login failure: command LOGIN illegal in state AUTH, only allowed in states NONAUTH
+2016-10-01 22:44:26,678 - outlookclient - ERROR - Attempt #7, login failure: command LOGIN illegal in state AUTH, only allowed in states NONAUTH
+2016-10-01 22:44:26,680 - outlookclient - ERROR - Attempt #8, login failure: command LOGIN illegal in state AUTH, only allowed in states NONAUTH
+2016-10-01 22:44:26,683 - outlookclient - ERROR - Attempt #9, login failure: command LOGIN illegal in state AUTH, only allowed in states NONAUTH
+2016-10-01 22:44:26,685 - outlookclient - ERROR - Attempt #10, login failure: command LOGIN illegal in state AUTH, only allowed in states NONAUTH
+2016-10-01 22:44:26,686 - outlookclient - ERROR - Attempting to get email info. NO RESPONSE
+2016-10-01 22:51:10,211 - outlookclient - ERROR - Recieved not okay response.
+2016-10-01 22:51:10,215 - outlookclient - ERROR - Unable to login with username and password provided by user
+2016-10-01 22:51:10,219 - outlookclient - ERROR - Attempting to get email info. NO RESPONSE
+2016-10-01 22:52:10,089 - outlookclient - ERROR - Recieved not okay response.
+2016-10-01 22:52:10,090 - outlookclient - ERROR - Unable to login with username and password provided by user
+2016-10-01 22:52:10,090 - outlookclient - ERROR - Attempting to get email info without login. Must login to proceed
+2016-10-01 22:55:06,674 - outlookclient - ERROR - Login Success to outlook.office365.com
+2016-10-01 22:55:06,677 - outlookclient - ERROR - Attempt #2, login failure: command LOGIN illegal in state AUTH, only allowed in states NONAUTH
+2016-10-01 22:55:06,679 - outlookclient - ERROR - Attempt #3, login failure: command LOGIN illegal in state AUTH, only allowed in states NONAUTH
+2016-10-01 22:55:06,681 - outlookclient - ERROR - Attempt #4, login failure: command LOGIN illegal in state AUTH, only allowed in states NONAUTH
+2016-10-01 22:55:06,684 - outlookclient - ERROR - Attempt #5, login failure: command LOGIN illegal in state AUTH, only allowed in states NONAUTH
+2016-10-01 22:55:06,688 - outlookclient - ERROR - Attempt #6, login failure: command LOGIN illegal in state AUTH, only allowed in states NONAUTH
+2016-10-01 22:55:06,690 - outlookclient - ERROR - Attempt #7, login failure: command LOGIN illegal in state AUTH, only allowed in states NONAUTH
+2016-10-01 22:55:06,692 - outlookclient - ERROR - Attempt #8, login failure: command LOGIN illegal in state AUTH, only allowed in states NONAUTH
+2016-10-01 22:55:06,695 - outlookclient - ERROR - Attempt #9, login failure: command LOGIN illegal in state AUTH, only allowed in states NONAUTH
+2016-10-01 22:55:06,697 - outlookclient - ERROR - Attempt #10, login failure: command LOGIN illegal in state AUTH, only allowed in states NONAUTH
+2016-10-01 22:55:06,699 - outlookclient - ERROR - Attempting to get email info without login. Must login to proceed
+2016-10-01 23:09:01,453 - outlookclient - ERROR - Login Success to outlook.office365.com
+2016-10-01 23:09:01,455 - outlookclient - ERROR - Attempt #2, login failure: command LOGIN illegal in state AUTH, only allowed in states NONAUTH
+2016-10-01 23:09:01,456 - outlookclient - ERROR - Attempt #3, login failure: command LOGIN illegal in state AUTH, only allowed in states NONAUTH
+2016-10-01 23:09:01,456 - outlookclient - ERROR - Attempting to get email info without login. Must login to proceed
+2016-10-01 23:09:37,737 - outlookclient - ERROR - Attempting to get email info without login. Must login to proceed
+2016-10-01 23:11:21,605 - outlookclient - ERROR - Attempting select Inbox
+2016-10-03 21:36:11,269 - outlookclient - ERROR - Unable to initialize imap client
+2016-10-04 15:21:13,783 - outlookclient - ERROR - Attempt #1, login failure: LOGIN failed.
+2016-10-04 15:21:13,788 - outlookclient - ERROR - Recieved not okay response.
+2016-10-04 15:21:13,789 - outlookclient - ERROR - Unable to login with username and password provided by user
+2016-10-04 15:21:13,789 - outlookclient - ERROR - Attempting to get email info without login. Must login to proceed
+2016-10-04 15:30:08,734 - outlookclient - ERROR - Keyboard Interrupt, Stopping program
+2016-10-05 14:14:06,695 - ITSdriver - ERROR - Unable to log in via ITSdriver
+2016-10-05 14:49:37,262 - ITSdriver - ERROR - Unable to log in via ITSdriver
+2016-10-05 16:27:22,605 - ITSdriver - ERROR - Unable to log in via ITSdriver
+2016-10-05 16:28:13,191 - ITSdriver - ERROR - Unable to log in via ITSdriver
+2016-10-05 17:27:09,897 - ITSdriver - ERROR - Unable to log in via ITSdriver
+2016-10-06 00:49:09,606 - ITSdriver - ERROR - Unable new shift: ['TempTake'] ['Adam', 'Mrowca'] 1900-01-01 15:00:00
+2016-10-06 00:52:00,098 - ITSdriver - ERROR - Unable new shift: ['TempTake'] ['Adam', 'Mrowca'] 1900-01-01 15:00:00
+2016-10-06 00:54:04,612 - ITSdriver - ERROR - Unable new shift: ['TempTake'] ['Adam', 'Mrowca'] 1900-01-01 15:00:00
+2016-10-06 10:48:03,002 - ITSdriver - ERROR - Unable new shift: ['TempTake'] ['Adam', 'Mrowca'] 1900-01-01 15:00:00
+2016-10-06 10:51:32,926 - ITSdriver - ERROR - Unable to grab shift because unable to select: ['TempTake'] ['Adam', 'Mrowca'] 1900-01-01 15:00:00
+2016-10-06 10:56:22,124 - ITSdriver - ERROR - Unable to grab shift because unable to select: ['TempTake'] ['Adam', 'Mrowca'] 1900-01-01 15:00:00
+2016-10-06 10:57:02,146 - ITSdriver - ERROR - Unable to grab shift because unable to select: ['TempTake'] ['Adam', 'Mrowca'] 1900-01-01 15:00:00
+2016-10-06 12:33:55,607 - ITSdriver - ERROR - Unable to grab shift because unable to select: ['TempTake'] ['Adam', 'Mrowca'] 1900-01-01 15:00:00
+2016-10-06 12:35:12,153 - ITSdriver - ERROR - Unable to grab shift because unable to select: ['TempTake'] ['Adam', 'Mrowca'] 1900-01-01 15:00:00
+2016-10-06 12:36:49,925 - ITSdriver - ERROR - Unable to grab shift because unable to select: ['TempTake'] ['Adam', 'Mrowca'] 1900-01-01 15:00:00
+2016-10-06 12:37:35,051 - ITSdriver - ERROR - Unable to grab shift because unable to select: ['TempTake'] ['Adam', 'Mrowca'] 1900-01-01 15:00:00
+2016-10-06 12:38:41,132 - ITSdriver - ERROR - Unable to grab shift because unable to select: ['TempTake'] ['Adam', 'Mrowca'] 1900-01-01 15:00:00
+2016-10-06 12:39:03,326 - ITSdriver - ERROR - Unable to grab shift because unable to select: ['TempTake'] ['Adam', 'Mrowca'] 1900-01-01 15:00:00
+2016-10-06 12:42:13,717 - ITSdriver - ERROR - Unable to grab shift because unable to select: ['TempTake'] ['Adam', 'Mrowca'] 1900-01-01 15:00:00
+2016-10-06 12:43:32,449 - ITSdriver - ERROR - Unable to grab shift because unable to select: ['TempTake'] ['Adam', 'Mrowca'] 1900-01-01 15:00:00
+2016-10-06 12:44:33,338 - ITSdriver - ERROR - Unable to grab shift because unable to select: ['TempTake'] ['Adam', 'Mrowca'] 1900-01-01 15:00:00
+2016-10-06 12:54:12,910 - ITSdriver - ERROR - Unable to grab shift because unable to select: ['TempTake'] ['Adam', 'Mrowca'] 1900-01-01 15:00:00
+2016-10-06 12:55:44,835 - ITSdriver - ERROR - Unable to grab shift because unable to select: ['TempTake'] ['Adam', 'Mrowca'] 1900-01-01 14:00:00
+2016-10-06 15:45:28,078 - ITSdriver - ERROR - Unable to grab shift because unable to select: ['TempTake'] ['Adam', 'Mrowca'] 1900-01-01 14:00:00
+2016-10-06 15:59:44,967 - ITSdriver - ERROR - Unable to grab shift because unable to select: ['TempTake'] ['Adam', 'Mrowca'] 1900-01-01 14:00:00
+2016-10-06 16:06:21,212 - ITSdriver - ERROR - Unable to grab shift because unable to select: ['TempTake'] ['Adam', 'Mrowca'] 1900-01-01 14:00:00
+2016-10-06 16:34:29,627 - ITSdriver - ERROR - Unable to grab shift because unable to select: ['TempTake'] ['Adam', 'Mrowca'] 1900-01-01 14:00:00
+2016-10-18 14:06:04,115 - outlookclient - ERROR - Attempt #1, login failure: LOGIN failed.
+2016-10-18 14:06:05,183 - outlookclient - ERROR - Attempt #2, login failure: LOGIN failed.
+2016-10-18 14:06:06,203 - outlookclient - ERROR - Attempt #3, login failure: LOGIN failed.
+2016-10-18 14:06:06,204 - outlookclient - ERROR - Attempting select without login. NO RESPONSE
+2016-10-18 14:10:10,884 - outlookclient - ERROR - Keyboard Interrupt, Stopping program
+2016-10-18 14:10:41,950 - outlookclient - ERROR - Attempt #1, login failure: LOGIN failed.
+2016-10-18 14:10:42,834 - outlookclient - ERROR - Attempt #2, login failure: LOGIN failed.
+2016-10-18 14:10:43,709 - outlookclient - ERROR - Attempt #3, login failure: LOGIN failed.
+2016-10-18 14:10:43,714 - outlookclient - ERROR - Attempting select without login. NO RESPONSE
+2016-10-18 14:11:04,755 - outlookclient - ERROR - Attempt #1, login failure: LOGIN failed.
+2016-10-18 14:11:05,324 - outlookclient - ERROR - Attempt #2, login failure: LOGIN failed.
+2016-10-18 14:11:05,966 - outlookclient - ERROR - Attempt #3, login failure: LOGIN failed.
+2016-10-18 14:11:05,971 - outlookclient - ERROR - Attempting select without login. NO RESPONSE

@@ -1,0 +1,10 @@
+{
+	"ITS":{
+		"username":"username",
+		"password":"password"
+	},
+	"Outlook":{
+		"username":"email",
+		"password":"password"	
+	}
+}

@@ -1,0 +1,1049 @@
+2016-09-15 22:01:07,553 - parser - ERROR - No filepath found or provided in <class 'parser.Settings_Parser'>
+2016-09-15 23:59:01,561 - parser - ERROR - No filepath found or provided in <class 'parser.Settings_Parser'>
+2016-09-16 00:01:19,663 - parser - ERROR - Invalid type <type 'int'> for 'logging'
+2016-09-16 00:06:16,077 - parser - INFO - Loading ../settings/settings.json into parser <class 'parser.Settings_Parser'>
+2016-09-16 00:06:16,078 - parser - INFO - Converting ../settings/settings.json to dict
+2016-09-16 00:06:16,079 - parser - INFO - Data conversion loading of ../settings/settings.json is successful
+2016-09-16 00:06:16,079 - parser - INFO - Validating ../settings/settings.json in <class 'parser.Settings_Parser'>
+2016-09-16 00:06:16,080 - parser - INFO - Validating 'active' in ../settings/settings.json
+2016-09-16 00:06:16,080 - parser - INFO - Validating 'logging' in ../settings/settings.json
+2016-09-16 00:06:16,080 - parser - INFO - Validating 'notification_email' in ../settings/settings.json
+2016-09-16 00:06:16,080 - parser - INFO - Validating 'refresh' in ../settings/settings.json
+2016-09-16 00:06:16,080 - parser - INFO - Validating dates
+2016-09-16 00:06:16,080 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2016-09-16 00:06:16,091 - parser - INFO - --Validating Weekday
+2016-09-16 00:06:16,091 - parser - INFO - ----Validating locations
+2016-09-16 00:06:16,091 - parser - WARNING - No 'locations' provided, default any location
+2016-09-16 00:06:16,091 - parser - INFO - ----Validating hours
+2016-09-16 00:06:16,092 - parser - INFO - ------Validating hour_range
+2016-09-16 00:06:16,092 - parser - INFO - ------Validating actions
+2016-09-16 00:06:16,092 - parser - INFO - ../settings/settings.json successfully validated in <class 'parser.Settings_Parser'>, no errors
+2016-09-16 00:06:16,092 - parser - INFO - Loading ../settings/creds.json into parser <class 'parser.Credentials_Parser'>
+2016-09-16 00:06:16,092 - parser - INFO - Converting ../settings/creds.json to dict
+2016-09-16 00:06:16,092 - parser - INFO - Data conversion loading of ../settings/creds.json is successful
+2016-09-16 00:06:16,093 - parser - INFO - Validating ../settings/creds.json in <class 'parser.Credentials_Parser'>
+2016-09-16 00:06:16,093 - parser - INFO - Validating ITS credentials
+2016-09-16 00:06:16,093 - parser - INFO - Validating username and password
+2016-09-16 00:06:16,093 - parser - INFO - Validating Outlook credentials
+2016-09-16 00:06:16,093 - parser - INFO - Validating username and password
+2016-09-16 00:06:16,093 - parser - INFO - ../settings/creds.json successfully validated in <class 'parser.Credentials_Parser'>, no errors
+2016-09-16 00:06:43,006 - parser - INFO - Loading ../settings/settings.json into parser <class 'parser.Settings_Parser'>
+2016-09-16 00:06:43,007 - parser - INFO - Converting ../settings/settings.json to dict
+2016-09-16 00:06:43,008 - parser - INFO - Data conversion loading of ../settings/settings.json is successful
+2016-09-16 00:06:43,008 - parser - INFO - Validating ../settings/settings.json in <class 'parser.Settings_Parser'>
+2016-09-16 00:06:43,008 - parser - INFO - Validating 'active' in ../settings/settings.json
+2016-09-16 00:06:43,009 - parser - INFO - Validating 'logging' in ../settings/settings.json
+2016-09-16 00:06:43,009 - parser - INFO - Validating 'notification_email' in ../settings/settings.json
+2016-09-16 00:06:43,010 - parser - INFO - Validating 'refresh' in ../settings/settings.json
+2016-09-16 00:06:43,010 - parser - INFO - Validating dates
+2016-09-16 00:06:43,010 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2016-09-16 00:06:43,020 - parser - INFO - --Validating Weekday
+2016-09-16 00:06:43,020 - parser - INFO - ----Validating locations
+2016-09-16 00:06:43,021 - parser - WARNING - No 'locations' provided, default any location
+2016-09-16 00:06:43,021 - parser - INFO - ----Validating hours
+2016-09-16 00:06:43,021 - parser - INFO - ------Validating hour_range
+2016-09-16 00:06:43,021 - parser - INFO - ------Validating actions
+2016-09-16 00:06:43,022 - parser - INFO - ../settings/settings.json successfully validated in <class 'parser.Settings_Parser'>, no errors
+2016-09-16 00:06:43,022 - parser - INFO - Loading ../settings/creds.json into parser <class 'parser.Credentials_Parser'>
+2016-09-16 00:06:43,022 - parser - INFO - Converting ../settings/creds.json to dict
+2016-09-16 00:06:43,023 - parser - INFO - Data conversion loading of ../settings/creds.json is successful
+2016-09-16 00:06:43,023 - parser - INFO - Validating ../settings/creds.json in <class 'parser.Credentials_Parser'>
+2016-09-16 00:06:43,023 - parser - INFO - Validating ITS credentials
+2016-09-16 00:06:43,024 - parser - INFO - Validating username and password
+2016-09-16 00:06:43,024 - parser - INFO - Validating Outlook credentials
+2016-09-16 00:06:43,024 - parser - INFO - Validating username and password
+2016-09-16 00:06:43,025 - parser - INFO - ../settings/creds.json successfully validated in <class 'parser.Credentials_Parser'>, no errors
+2016-09-16 00:07:05,010 - parser - INFO - Loading ../settings/settings.json into parser <class 'parser.Settings_Parser'>
+2016-09-16 00:07:05,010 - parser - INFO - Converting ../settings/settings.json to dict
+2016-09-16 00:07:05,011 - parser - INFO - Data conversion loading of ../settings/settings.json is successful
+2016-09-16 00:07:05,011 - parser - INFO - Validating ../settings/settings.json in <class 'parser.Settings_Parser'>
+2016-09-16 00:07:05,011 - parser - INFO - Validating 'active' in ../settings/settings.json
+2016-09-16 00:07:05,012 - parser - INFO - Validating 'logging' in ../settings/settings.json
+2016-09-16 00:07:05,012 - parser - ERROR - Invalid type <type 'int'> for 'logging'
+2016-09-16 07:34:56,632 - parser - INFO - Loading ../settings/settings.json into parser <class 'parser.Settings_Parser'>
+2016-09-16 07:34:56,635 - parser - INFO - Converting ../settings/settings.json to dict
+2016-09-16 07:34:56,636 - parser - INFO - Data conversion loading of ../settings/settings.json is successful
+2016-09-16 07:34:56,637 - parser - INFO - Validating ../settings/settings.json in <class 'parser.Settings_Parser'>
+2016-09-16 07:34:56,637 - parser - INFO - Validating 'active' in ../settings/settings.json
+2016-09-16 07:34:56,637 - parser - INFO - Validating 'logging' in ../settings/settings.json
+2016-09-16 07:34:56,637 - parser - ERROR - Invalid type <type 'int'> for 'logging'
+2016-09-16 07:38:55,699 - parser - INFO - Loading ../settings/settings.json into parser <class 'parser.Settings_Parser'>
+2016-09-16 07:38:55,700 - parser - INFO - Converting ../settings/settings.json to dict
+2016-09-16 07:38:55,702 - parser - INFO - Data conversion loading of ../settings/settings.json is successful
+2016-09-16 07:38:55,703 - parser - INFO - Validating ../settings/settings.json in <class 'parser.Settings_Parser'>
+2016-09-16 07:38:55,704 - parser - INFO - Validating 'active' in ../settings/settings.json
+2016-09-16 07:38:55,705 - parser - INFO - Validating 'logging' in ../settings/settings.json
+2016-09-16 07:38:55,706 - parser - ERROR - Invalid type <type 'int'> for 'logging'
+2016-09-17 19:47:10,907 - parser - INFO - Loading ../settings/settings.json into parser <class 'parser.Settings_Parser'>
+2016-09-17 19:47:10,908 - parser - INFO - Converting ../settings/settings.json to dict
+2016-09-17 19:47:10,909 - parser - INFO - Data conversion loading of ../settings/settings.json is successful
+2016-09-17 19:47:10,909 - parser - INFO - Validating ../settings/settings.json in <class 'parser.Settings_Parser'>
+2016-09-17 19:47:10,910 - parser - INFO - Validating 'active' in ../settings/settings.json
+2016-09-17 19:47:10,910 - parser - INFO - Validating 'logging' in ../settings/settings.json
+2016-09-17 19:47:10,910 - parser - ERROR - Invalid type <type 'int'> for 'logging'
+2016-09-17 19:47:27,616 - parser - INFO - Loading ../settings/settings.json into parser <class 'parser.Settings_Parser'>
+2016-09-17 19:47:27,616 - parser - INFO - Converting ../settings/settings.json to dict
+2016-09-17 19:47:27,617 - parser - INFO - Data conversion loading of ../settings/settings.json is successful
+2016-09-17 19:47:27,617 - parser - INFO - Validating ../settings/settings.json in <class 'parser.Settings_Parser'>
+2016-09-17 19:47:27,617 - parser - INFO - Validating 'active' in ../settings/settings.json
+2016-09-17 19:47:27,618 - parser - INFO - Validating 'logging' in ../settings/settings.json
+2016-09-17 19:47:27,618 - parser - INFO - Validating 'notification_email' in ../settings/settings.json
+2016-09-17 19:47:27,618 - parser - INFO - Validating 'refresh' in ../settings/settings.json
+2016-09-17 19:47:27,619 - parser - INFO - Validating dates
+2016-09-17 19:47:27,619 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2016-09-17 19:47:27,633 - parser - INFO - --Validating Weekday
+2016-09-17 19:47:27,634 - parser - INFO - ----Validating locations
+2016-09-17 19:47:27,634 - parser - WARNING - No 'locations' provided, default any location
+2016-09-17 19:47:27,634 - parser - INFO - ----Validating hours
+2016-09-17 19:47:27,635 - parser - INFO - ------Validating hour_range
+2016-09-17 19:47:27,635 - parser - INFO - ------Validating actions
+2016-09-17 19:47:27,635 - parser - INFO - ../settings/settings.json successfully validated in <class 'parser.Settings_Parser'>, no errors
+2016-09-17 19:47:27,635 - parser - INFO - Loading ../settings/creds.json into parser <class 'parser.Credentials_Parser'>
+2016-09-17 19:47:27,636 - parser - INFO - Converting ../settings/creds.json to dict
+2016-09-17 19:47:27,637 - parser - INFO - Data conversion loading of ../settings/creds.json is successful
+2016-09-17 19:47:27,637 - parser - INFO - Validating ../settings/creds.json in <class 'parser.Credentials_Parser'>
+2016-09-17 19:47:27,637 - parser - INFO - Validating ITS credentials
+2016-09-17 19:47:27,637 - parser - INFO - Validating username and password
+2016-09-17 19:47:27,638 - parser - INFO - Validating Outlook credentials
+2016-09-17 19:47:27,638 - parser - INFO - Validating username and password
+2016-09-17 19:47:27,638 - parser - INFO - ../settings/creds.json successfully validated in <class 'parser.Credentials_Parser'>, no errors
+2016-09-18 17:35:34,891 - parser - INFO - Loading ../settings/settings.json into parser <class 'parser.Settings_Parser'>
+2016-09-18 17:35:34,892 - parser - INFO - Converting ../settings/settings.json to dict
+2016-09-18 17:35:34,894 - parser - INFO - Data conversion loading of ../settings/settings.json is successful
+2016-09-18 17:35:34,894 - parser - INFO - Validating ../settings/settings.json in <class 'parser.Settings_Parser'>
+2016-09-18 17:35:34,895 - parser - INFO - Validating 'active' in ../settings/settings.json
+2016-09-18 17:35:34,895 - parser - INFO - Validating 'logging' in ../settings/settings.json
+2016-09-18 17:36:30,379 - parser - INFO - Loading ../settings/settings.json into parser <class 'parser.Settings_Parser'>
+2016-09-18 17:36:30,380 - parser - INFO - Converting ../settings/settings.json to dict
+2016-09-18 17:36:30,381 - parser - INFO - Data conversion loading of ../settings/settings.json is successful
+2016-09-18 17:36:30,381 - parser - INFO - Validating ../settings/settings.json in <class 'parser.Settings_Parser'>
+2016-09-18 17:36:30,382 - parser - INFO - Validating 'active' in ../settings/settings.json
+2016-09-18 17:36:30,382 - parser - INFO - Validating 'logging' in ../settings/settings.json
+2016-09-18 17:36:30,382 - parser - WARNING - 'logging' paramater not set, defaulting to false
+2016-09-18 17:36:30,383 - parser - INFO - Validating 'notification_email' in ../settings/settings.json
+2016-09-18 17:36:30,383 - parser - INFO - Validating 'refresh' in ../settings/settings.json
+2016-09-18 17:36:30,384 - parser - INFO - Validating dates
+2016-09-18 17:36:30,384 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2016-09-18 17:36:30,405 - parser - INFO - --Validating Weekday
+2016-09-18 17:36:30,405 - parser - INFO - ----Validating locations
+2016-09-18 17:36:30,406 - parser - WARNING - No 'locations' provided, default any location
+2016-09-18 17:36:30,406 - parser - INFO - ----Validating hours
+2016-09-18 17:36:30,406 - parser - INFO - ------Validating hour_range
+2016-09-18 17:36:30,407 - parser - INFO - ------Validating actions
+2016-09-18 17:36:30,408 - parser - INFO - ../settings/settings.json successfully validated in <class 'parser.Settings_Parser'>, no errors
+2016-09-18 17:36:30,408 - parser - INFO - Loading ../settings/creds.json into parser <class 'parser.Credentials_Parser'>
+2016-09-18 17:36:30,409 - parser - INFO - Converting ../settings/creds.json to dict
+2016-09-18 17:36:30,410 - parser - INFO - Data conversion loading of ../settings/creds.json is successful
+2016-09-18 17:36:30,410 - parser - INFO - Validating ../settings/creds.json in <class 'parser.Credentials_Parser'>
+2016-09-18 17:36:30,411 - parser - INFO - Validating ITS credentials
+2016-09-18 17:36:30,411 - parser - INFO - Validating username and password
+2016-09-18 17:36:30,412 - parser - INFO - Validating Outlook credentials
+2016-09-18 17:36:30,413 - parser - INFO - Validating username and password
+2016-09-18 17:36:30,413 - parser - INFO - ../settings/creds.json successfully validated in <class 'parser.Credentials_Parser'>, no errors
+2016-09-18 17:38:21,489 - parser - INFO - Loading ../settings/settings.json into parser <class 'parser.Settings_Parser'>
+2016-09-18 17:38:21,490 - parser - INFO - Converting ../settings/settings.json to dict
+2016-09-18 17:38:21,490 - parser - INFO - Data conversion loading of ../settings/settings.json is successful
+2016-09-18 17:38:21,491 - parser - INFO - Validating ../settings/settings.json in <class 'parser.Settings_Parser'>
+2016-09-18 17:38:21,491 - parser - INFO - Validating 'active' in ../settings/settings.json
+2016-09-18 17:38:21,491 - parser - INFO - Validating 'logging' in ../settings/settings.json
+2016-09-18 17:38:21,492 - parser - INFO - Validating 'notification_email' in ../settings/settings.json
+2016-09-18 17:38:21,492 - parser - INFO - Validating 'refresh' in ../settings/settings.json
+2016-09-18 17:38:21,492 - parser - INFO - Validating dates
+2016-09-18 17:38:21,493 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2016-09-18 17:38:21,502 - parser - INFO - --Validating Weekday
+2016-09-18 17:38:21,503 - parser - INFO - ----Validating locations
+2016-09-18 17:38:21,503 - parser - WARNING - No 'locations' provided, default any location
+2016-09-18 17:38:21,504 - parser - INFO - ----Validating hours
+2016-09-18 17:38:21,504 - parser - INFO - ------Validating hour_range
+2016-09-18 17:38:21,505 - parser - INFO - ------Validating actions
+2016-09-18 17:38:21,505 - parser - INFO - ../settings/settings.json successfully validated in <class 'parser.Settings_Parser'>, no errors
+2016-09-18 17:38:21,506 - parser - INFO - Loading ../settings/creds.json into parser <class 'parser.Credentials_Parser'>
+2016-09-18 17:38:21,506 - parser - INFO - Converting ../settings/creds.json to dict
+2016-09-18 17:38:21,506 - parser - INFO - Data conversion loading of ../settings/creds.json is successful
+2016-09-18 17:38:21,507 - parser - INFO - Validating ../settings/creds.json in <class 'parser.Credentials_Parser'>
+2016-09-18 17:38:21,507 - parser - INFO - Validating ITS credentials
+2016-09-18 17:38:21,507 - parser - INFO - Validating username and password
+2016-09-18 17:38:21,508 - parser - INFO - Validating Outlook credentials
+2016-09-18 17:38:21,508 - parser - INFO - Validating username and password
+2016-09-18 17:38:21,508 - parser - INFO - ../settings/creds.json successfully validated in <class 'parser.Credentials_Parser'>, no errors
+2016-09-18 17:38:36,346 - parser - INFO - Loading ../settings/settings.json into parser <class 'parser.Settings_Parser'>
+2016-09-18 17:38:36,346 - parser - INFO - Converting ../settings/settings.json to dict
+2016-09-18 17:38:36,347 - parser - INFO - Data conversion loading of ../settings/settings.json is successful
+2016-09-18 17:38:36,347 - parser - INFO - Validating ../settings/settings.json in <class 'parser.Settings_Parser'>
+2016-09-18 17:38:36,347 - parser - INFO - Validating 'active' in ../settings/settings.json
+2016-09-18 17:38:36,348 - parser - INFO - Validating 'logging' in ../settings/settings.json
+2016-09-18 17:38:36,348 - parser - INFO - Validating 'notification_email' in ../settings/settings.json
+2016-09-18 17:38:36,348 - parser - INFO - Validating 'refresh' in ../settings/settings.json
+2016-09-18 17:38:36,348 - parser - INFO - Validating dates
+2016-09-18 17:38:36,349 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2016-09-18 17:38:36,358 - parser - INFO - --Validating Weekday
+2016-09-18 17:38:36,359 - parser - INFO - ----Validating locations
+2016-09-18 17:38:36,360 - parser - WARNING - No 'locations' provided, default any location
+2016-09-18 17:38:36,360 - parser - INFO - ----Validating hours
+2016-09-18 17:38:36,361 - parser - INFO - ------Validating hour_range
+2016-09-18 17:38:36,361 - parser - INFO - ------Validating actions
+2016-09-18 17:38:36,361 - parser - INFO - ../settings/settings.json successfully validated in <class 'parser.Settings_Parser'>, no errors
+2016-09-18 17:38:36,362 - parser - INFO - Loading ../settings/creds.json into parser <class 'parser.Credentials_Parser'>
+2016-09-18 17:38:36,362 - parser - INFO - Converting ../settings/creds.json to dict
+2016-09-18 17:38:36,362 - parser - INFO - Data conversion loading of ../settings/creds.json is successful
+2016-09-18 17:38:36,363 - parser - INFO - Validating ../settings/creds.json in <class 'parser.Credentials_Parser'>
+2016-09-18 17:38:36,363 - parser - INFO - Validating ITS credentials
+2016-09-18 17:38:36,363 - parser - INFO - Validating username and password
+2016-09-18 17:38:36,364 - parser - INFO - Validating Outlook credentials
+2016-09-18 17:38:36,364 - parser - INFO - Validating username and password
+2016-09-18 17:38:36,364 - parser - INFO - ../settings/creds.json successfully validated in <class 'parser.Credentials_Parser'>, no errors
+2016-09-18 17:43:46,697 - parser - INFO - Loading ../settings/settings.json into parser <class 'parser.Settings_Parser'>
+2016-09-18 17:43:46,698 - parser - INFO - Converting ../settings/settings.json to dict
+2016-09-18 17:43:46,699 - parser - INFO - Data conversion loading of ../settings/settings.json is successful
+2016-09-18 17:43:46,699 - parser - INFO - Validating ../settings/settings.json in <class 'parser.Settings_Parser'>
+2016-09-18 17:43:46,700 - parser - INFO - Validating 'active' in ../settings/settings.json
+2016-09-18 17:43:46,700 - parser - INFO - Validating 'logging' in ../settings/settings.json
+2016-09-18 17:43:46,700 - parser - INFO - Validating 'notification_email' in ../settings/settings.json
+2016-09-18 17:43:46,701 - parser - INFO - Validating 'refresh' in ../settings/settings.json
+2016-09-18 17:43:46,701 - parser - INFO - Validating dates
+2016-09-18 17:43:46,702 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2016-09-18 17:43:46,712 - parser - INFO - --Validating Weekday
+2016-09-18 17:43:46,713 - parser - INFO - ----Validating locations
+2016-09-18 17:43:46,713 - parser - WARNING - No 'locations' provided, default any location
+2016-09-18 17:43:46,714 - parser - INFO - ----Validating hours
+2016-09-18 17:43:46,714 - parser - INFO - ------Validating hour_range
+2016-09-18 17:43:46,714 - parser - INFO - ------Validating actions
+2016-09-18 17:43:46,715 - parser - INFO - ../settings/settings.json successfully validated in <class 'parser.Settings_Parser'>, no errors
+2016-09-18 17:43:46,715 - parser - INFO - Loading ../settings/creds.json into parser <class 'parser.Credentials_Parser'>
+2016-09-18 17:43:46,715 - parser - INFO - Converting ../settings/creds.json to dict
+2016-09-18 17:43:46,716 - parser - INFO - Data conversion loading of ../settings/creds.json is successful
+2016-09-18 17:43:46,716 - parser - INFO - Validating ../settings/creds.json in <class 'parser.Credentials_Parser'>
+2016-09-18 17:43:46,716 - parser - INFO - Validating ITS credentials
+2016-09-18 17:43:46,716 - parser - INFO - Validating username and password
+2016-09-18 17:43:46,717 - parser - INFO - Validating Outlook credentials
+2016-09-18 17:43:46,717 - parser - INFO - Validating username and password
+2016-09-18 17:43:46,717 - parser - INFO - ../settings/creds.json successfully validated in <class 'parser.Credentials_Parser'>, no errors
+2016-09-18 17:44:21,165 - parser - INFO - Loading ../settings/settings.json into parser <class 'parser.Settings_Parser'>
+2016-09-18 17:44:21,166 - parser - INFO - Converting ../settings/settings.json to dict
+2016-09-18 17:44:21,166 - parser - INFO - Data conversion loading of ../settings/settings.json is successful
+2016-09-18 17:44:21,167 - parser - INFO - Validating ../settings/settings.json in <class 'parser.Settings_Parser'>
+2016-09-18 17:44:21,167 - parser - INFO - Validating 'active' in ../settings/settings.json
+2016-09-18 17:44:21,167 - parser - INFO - Validating 'logging' in ../settings/settings.json
+2016-09-18 17:44:21,167 - parser - INFO - Validating 'notification_email' in ../settings/settings.json
+2016-09-18 17:44:21,168 - parser - INFO - Validating 'refresh' in ../settings/settings.json
+2016-09-18 17:44:21,168 - parser - INFO - Validating dates
+2016-09-18 17:44:21,168 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2016-09-18 17:44:21,179 - parser - INFO - --Validating Weekday
+2016-09-18 17:44:21,180 - parser - INFO - ----Validating locations
+2016-09-18 17:44:21,180 - parser - WARNING - No 'locations' provided, default any location
+2016-09-18 17:44:21,180 - parser - INFO - ----Validating hours
+2016-09-18 17:44:21,181 - parser - INFO - ------Validating hour_range
+2016-09-18 17:44:21,181 - parser - INFO - ------Validating actions
+2016-09-18 17:44:21,181 - parser - INFO - ../settings/settings.json successfully validated in <class 'parser.Settings_Parser'>, no errors
+2016-09-18 17:44:21,181 - parser - INFO - Loading ../settings/creds.json into parser <class 'parser.Credentials_Parser'>
+2016-09-18 17:44:21,182 - parser - INFO - Converting ../settings/creds.json to dict
+2016-09-18 17:44:21,182 - parser - INFO - Data conversion loading of ../settings/creds.json is successful
+2016-09-18 17:44:21,182 - parser - INFO - Validating ../settings/creds.json in <class 'parser.Credentials_Parser'>
+2016-09-18 17:44:21,183 - parser - INFO - Validating ITS credentials
+2016-09-18 17:44:21,183 - parser - INFO - Validating username and password
+2016-09-18 17:44:21,183 - parser - INFO - Validating Outlook credentials
+2016-09-18 17:44:21,183 - parser - INFO - Validating username and password
+2016-09-18 17:44:21,184 - parser - INFO - ../settings/creds.json successfully validated in <class 'parser.Credentials_Parser'>, no errors
+2016-09-18 17:46:12,374 - parser - INFO - Loading ../settings/settings.json into parser <class 'parser.Settings_Parser'>
+2016-09-18 17:46:12,375 - parser - INFO - Converting ../settings/settings.json to dict
+2016-09-18 17:46:12,375 - parser - INFO - Data conversion loading of ../settings/settings.json is successful
+2016-09-18 17:46:12,376 - parser - INFO - Validating ../settings/settings.json in <class 'parser.Settings_Parser'>
+2016-09-18 17:46:12,376 - parser - INFO - Validating 'active' in ../settings/settings.json
+2016-09-18 17:46:12,376 - parser - INFO - Validating 'logging' in ../settings/settings.json
+2016-09-18 17:46:12,377 - parser - INFO - Validating 'notification_email' in ../settings/settings.json
+2016-09-18 17:46:12,377 - parser - INFO - Validating 'refresh' in ../settings/settings.json
+2016-09-18 17:46:12,377 - parser - INFO - Validating dates
+2016-09-18 17:46:12,377 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2016-09-18 17:46:12,388 - parser - INFO - --Validating Weekday
+2016-09-18 17:46:12,388 - parser - INFO - ----Validating locations
+2016-09-18 17:46:12,389 - parser - WARNING - No 'locations' provided, default any location
+2016-09-18 17:46:12,389 - parser - INFO - ----Validating hours
+2016-09-18 17:46:12,389 - parser - INFO - ------Validating hour_range
+2016-09-18 17:46:12,390 - parser - INFO - ------Validating actions
+2016-09-18 17:46:12,390 - parser - INFO - ../settings/settings.json successfully validated in <class 'parser.Settings_Parser'>, no errors
+2016-09-18 17:46:12,390 - parser - INFO - Loading ../settings/creds.json into parser <class 'parser.Credentials_Parser'>
+2016-09-18 17:46:12,391 - parser - INFO - Converting ../settings/creds.json to dict
+2016-09-18 17:46:12,391 - parser - INFO - Data conversion loading of ../settings/creds.json is successful
+2016-09-18 17:46:12,392 - parser - INFO - Validating ../settings/creds.json in <class 'parser.Credentials_Parser'>
+2016-09-18 17:46:12,392 - parser - INFO - Validating ITS credentials
+2016-09-18 17:46:12,392 - parser - INFO - Validating username and password
+2016-09-18 17:46:12,392 - parser - INFO - Validating Outlook credentials
+2016-09-18 17:46:12,393 - parser - INFO - Validating username and password
+2016-09-18 17:46:12,393 - parser - INFO - ../settings/creds.json successfully validated in <class 'parser.Credentials_Parser'>, no errors
+2016-09-18 17:46:26,951 - parser - INFO - Loading ../settings/settings.json into parser <class 'parser.Settings_Parser'>
+2016-09-18 17:46:26,951 - parser - INFO - Converting ../settings/settings.json to dict
+2016-09-18 17:46:26,952 - parser - INFO - Data conversion loading of ../settings/settings.json is successful
+2016-09-18 17:46:26,952 - parser - INFO - Validating ../settings/settings.json in <class 'parser.Settings_Parser'>
+2016-09-18 17:46:26,952 - parser - INFO - Validating 'active' in ../settings/settings.json
+2016-09-18 17:46:26,952 - parser - INFO - Validating 'logging' in ../settings/settings.json
+2016-09-18 17:46:26,953 - parser - INFO - Validating 'notification_email' in ../settings/settings.json
+2016-09-18 17:46:26,953 - parser - INFO - Validating 'refresh' in ../settings/settings.json
+2016-09-18 17:46:26,953 - parser - INFO - Validating dates
+2016-09-18 17:46:26,954 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2016-09-18 17:46:26,963 - parser - INFO - --Validating Weekday
+2016-09-18 17:46:26,964 - parser - INFO - ----Validating locations
+2016-09-18 17:46:26,964 - parser - WARNING - No 'locations' provided, default any location
+2016-09-18 17:46:26,964 - parser - INFO - ----Validating hours
+2016-09-18 17:46:26,965 - parser - INFO - ------Validating hour_range
+2016-09-18 17:46:26,965 - parser - INFO - ------Validating actions
+2016-09-18 17:46:26,965 - parser - INFO - ../settings/settings.json successfully validated in <class 'parser.Settings_Parser'>, no errors
+2016-09-18 17:46:26,966 - parser - INFO - Loading ../settings/creds.json into parser <class 'parser.Credentials_Parser'>
+2016-09-18 17:46:26,966 - parser - INFO - Converting ../settings/creds.json to dict
+2016-09-18 17:46:26,966 - parser - INFO - Data conversion loading of ../settings/creds.json is successful
+2016-09-18 17:46:26,967 - parser - INFO - Validating ../settings/creds.json in <class 'parser.Credentials_Parser'>
+2016-09-18 17:46:26,967 - parser - INFO - Validating ITS credentials
+2016-09-18 17:46:26,967 - parser - INFO - Validating username and password
+2016-09-18 17:46:26,968 - parser - INFO - Validating Outlook credentials
+2016-09-18 17:46:26,968 - parser - INFO - Validating username and password
+2016-09-18 17:46:26,968 - parser - INFO - ../settings/creds.json successfully validated in <class 'parser.Credentials_Parser'>, no errors
+2016-09-18 17:51:05,877 - parser - INFO - Loading ../settings/settings.json into parser <class 'parser.Settings_Parser'>
+2016-09-18 17:51:05,877 - parser - INFO - Converting ../settings/settings.json to dict
+2016-09-18 17:51:05,878 - parser - INFO - Data conversion loading of ../settings/settings.json is successful
+2016-09-18 17:51:05,878 - parser - INFO - Validating ../settings/settings.json in <class 'parser.Settings_Parser'>
+2016-09-18 17:51:05,878 - parser - INFO - Validating 'active' in ../settings/settings.json
+2016-09-18 17:51:05,879 - parser - INFO - Validating 'logging' in ../settings/settings.json
+2016-09-18 17:51:05,879 - parser - INFO - Validating 'notification_email' in ../settings/settings.json
+2016-09-18 17:51:05,879 - parser - INFO - Validating 'refresh' in ../settings/settings.json
+2016-09-18 17:51:05,879 - parser - INFO - Validating dates
+2016-09-18 17:51:05,880 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2016-09-18 17:51:05,889 - parser - INFO - --Validating Weekday
+2016-09-18 17:51:05,889 - parser - INFO - ----Validating locations
+2016-09-18 17:51:05,890 - parser - WARNING - No 'locations' provided, default any location
+2016-09-18 17:51:05,890 - parser - INFO - ----Validating hours
+2016-09-18 17:51:05,890 - parser - INFO - ------Validating hour_range
+2016-09-18 17:51:05,890 - parser - INFO - ------Validating actions
+2016-09-18 17:51:05,891 - parser - INFO - ../settings/settings.json successfully validated in <class 'parser.Settings_Parser'>, no errors
+2016-09-18 17:51:05,891 - parser - INFO - Loading ../settings/creds.json into parser <class 'parser.Credentials_Parser'>
+2016-09-18 17:51:05,891 - parser - INFO - Converting ../settings/creds.json to dict
+2016-09-18 17:51:05,892 - parser - INFO - Data conversion loading of ../settings/creds.json is successful
+2016-09-18 17:51:05,892 - parser - INFO - Validating ../settings/creds.json in <class 'parser.Credentials_Parser'>
+2016-09-18 17:51:05,892 - parser - INFO - Validating ITS credentials
+2016-09-18 17:51:05,892 - parser - INFO - Validating username and password
+2016-09-18 17:51:05,893 - parser - INFO - Validating Outlook credentials
+2016-09-18 17:51:05,893 - parser - INFO - Validating username and password
+2016-09-18 17:51:05,893 - parser - INFO - ../settings/creds.json successfully validated in <class 'parser.Credentials_Parser'>, no errors
+2016-09-18 17:52:42,690 - parser - INFO - Loading ../settings/settings.json into parser <class 'parser.Settings_Parser'>
+2016-09-18 17:52:42,691 - parser - INFO - Converting ../settings/settings.json to dict
+2016-09-18 17:52:42,692 - parser - INFO - Data conversion loading of ../settings/settings.json is successful
+2016-09-18 17:52:42,692 - parser - INFO - Validating ../settings/settings.json in <class 'parser.Settings_Parser'>
+2016-09-18 17:52:42,692 - parser - INFO - Validating 'active' in ../settings/settings.json
+2016-09-18 17:52:42,693 - parser - INFO - Validating 'logging' in ../settings/settings.json
+2016-09-18 17:52:42,694 - parser - INFO - Validating 'notification_email' in ../settings/settings.json
+2016-09-18 17:52:42,694 - parser - INFO - Validating 'refresh' in ../settings/settings.json
+2016-09-18 17:52:42,695 - parser - INFO - Validating dates
+2016-09-18 17:52:42,695 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2016-09-18 17:52:42,706 - parser - INFO - --Validating Weekday
+2016-09-18 17:52:42,706 - parser - INFO - ----Validating locations
+2016-09-18 17:52:42,707 - parser - WARNING - No 'locations' provided, default any location
+2016-09-18 17:52:42,707 - parser - INFO - ----Validating hours
+2016-09-18 17:52:42,707 - parser - INFO - ------Validating hour_range
+2016-09-18 17:52:42,708 - parser - INFO - ------Validating actions
+2016-09-18 17:52:42,708 - parser - INFO - ../settings/settings.json successfully validated in <class 'parser.Settings_Parser'>, no errors
+2016-09-18 18:10:50,868 - parser - INFO - Loading ../settings/settings.json into parser <class 'parser.Settings_Parser'>
+2016-09-18 18:10:50,869 - parser - INFO - Converting ../settings/settings.json to dict
+2016-09-18 18:10:50,870 - parser - INFO - Data conversion loading of ../settings/settings.json is successful
+2016-09-18 18:10:50,870 - parser - INFO - Validating ../settings/settings.json in <class 'parser.Settings_Parser'>
+2016-09-18 18:10:50,871 - parser - INFO - Validating 'active' in ../settings/settings.json
+2016-09-18 18:10:50,871 - parser - INFO - Validating 'logging' in ../settings/settings.json
+2016-09-18 18:10:50,872 - parser - INFO - Validating 'notification_email' in ../settings/settings.json
+2016-09-18 18:10:50,872 - parser - INFO - Validating 'refresh' in ../settings/settings.json
+2016-09-18 18:10:50,873 - parser - INFO - Validating dates
+2016-09-18 18:10:50,873 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2016-09-18 18:10:50,884 - parser - INFO - --Validating Weekday
+2016-09-18 18:10:50,884 - parser - INFO - ----Validating locations
+2016-09-18 18:10:50,884 - parser - WARNING - No 'locations' provided, default any location
+2016-09-18 18:10:50,885 - parser - INFO - ----Validating hours
+2016-09-18 18:10:50,885 - parser - INFO - ------Validating hour_range
+2016-09-18 18:10:50,885 - parser - INFO - ------Validating actions
+2016-09-18 18:10:50,886 - parser - INFO - ../settings/settings.json successfully validated in <class 'parser.Settings_Parser'>, no errors
+2016-09-18 18:16:57,098 - parser - INFO - Loading ../settings/settings.json into parser <class 'parser.Settings_Parser'>
+2016-09-18 18:16:57,099 - parser - INFO - Converting ../settings/settings.json to dict
+2016-09-18 18:16:57,099 - parser - INFO - Data conversion loading of ../settings/settings.json is successful
+2016-09-18 18:16:57,100 - parser - INFO - Validating ../settings/settings.json in <class 'parser.Settings_Parser'>
+2016-09-18 18:16:57,100 - parser - INFO - Validating 'active' in ../settings/settings.json
+2016-09-18 18:16:57,100 - parser - INFO - Validating 'logging' in ../settings/settings.json
+2016-09-18 18:16:57,100 - parser - INFO - Validating 'notification_email' in ../settings/settings.json
+2016-09-18 18:16:57,101 - parser - INFO - Validating 'refresh' in ../settings/settings.json
+2016-09-18 18:16:57,101 - parser - INFO - Validating dates
+2016-09-18 18:16:57,101 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2016-09-18 18:16:57,112 - parser - INFO - --Validating Weekday
+2016-09-18 18:16:57,112 - parser - INFO - ----Validating locations
+2016-09-18 18:16:57,113 - parser - WARNING - No 'locations' provided, default any location
+2016-09-18 18:16:57,113 - parser - INFO - ----Validating hours
+2016-09-18 18:16:57,113 - parser - INFO - ------Validating hour_range
+2016-09-18 18:16:57,113 - parser - INFO - ------Validating actions
+2016-09-18 18:16:57,114 - parser - INFO - ../settings/settings.json successfully validated in <class 'parser.Settings_Parser'>, no errors
+2016-09-18 18:17:10,830 - parser - INFO - Loading ../settings/settings.json into parser <class 'parser.Settings_Parser'>
+2016-09-18 18:17:10,830 - parser - INFO - Converting ../settings/settings.json to dict
+2016-09-18 18:17:10,831 - parser - INFO - Data conversion loading of ../settings/settings.json is successful
+2016-09-18 18:17:10,831 - parser - INFO - Validating ../settings/settings.json in <class 'parser.Settings_Parser'>
+2016-09-18 18:17:10,831 - parser - INFO - Validating 'active' in ../settings/settings.json
+2016-09-18 18:17:10,832 - parser - INFO - Validating 'logging' in ../settings/settings.json
+2016-09-18 18:17:10,832 - parser - INFO - Validating 'notification_email' in ../settings/settings.json
+2016-09-18 18:17:10,832 - parser - INFO - Validating 'refresh' in ../settings/settings.json
+2016-09-18 18:17:10,833 - parser - INFO - Validating dates
+2016-09-18 18:17:10,833 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2016-09-18 18:17:10,843 - parser - INFO - --Validating Weekday
+2016-09-18 18:17:10,844 - parser - INFO - ----Validating locations
+2016-09-18 18:17:10,844 - parser - WARNING - No 'locations' provided, default any location
+2016-09-18 18:17:10,845 - parser - INFO - ----Validating hours
+2016-09-18 18:17:10,845 - parser - INFO - ------Validating hour_range
+2016-09-18 18:17:10,845 - parser - INFO - ------Validating actions
+2016-09-18 18:17:10,845 - parser - INFO - ../settings/settings.json successfully validated in <class 'parser.Settings_Parser'>, no errors
+2016-09-18 18:17:25,716 - parser - INFO - Loading ../settings/settings.json into parser <class 'parser.Settings_Parser'>
+2016-09-18 18:17:25,716 - parser - INFO - Converting ../settings/settings.json to dict
+2016-09-18 18:17:25,717 - parser - INFO - Data conversion loading of ../settings/settings.json is successful
+2016-09-18 18:17:25,717 - parser - INFO - Validating ../settings/settings.json in <class 'parser.Settings_Parser'>
+2016-09-18 18:17:25,717 - parser - INFO - Validating 'active' in ../settings/settings.json
+2016-09-18 18:17:25,718 - parser - INFO - Validating 'logging' in ../settings/settings.json
+2016-09-18 18:17:25,718 - parser - INFO - Validating 'notification_email' in ../settings/settings.json
+2016-09-18 18:17:25,718 - parser - INFO - Validating 'refresh' in ../settings/settings.json
+2016-09-18 18:17:25,718 - parser - INFO - Validating dates
+2016-09-18 18:17:25,719 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2016-09-18 18:17:25,729 - parser - INFO - --Validating Weekday
+2016-09-18 18:17:25,730 - parser - INFO - ----Validating locations
+2016-09-18 18:17:25,730 - parser - WARNING - No 'locations' provided, default any location
+2016-09-18 18:17:25,730 - parser - INFO - ----Validating hours
+2016-09-18 18:17:25,731 - parser - INFO - ------Validating hour_range
+2016-09-18 18:17:25,731 - parser - INFO - ------Validating actions
+2016-09-18 18:17:25,731 - parser - INFO - ../settings/settings.json successfully validated in <class 'parser.Settings_Parser'>, no errors
+2016-09-18 18:18:05,657 - parser - INFO - Loading ../settings/settings.json into parser <class 'parser.Settings_Parser'>
+2016-09-18 18:18:05,658 - parser - INFO - Converting ../settings/settings.json to dict
+2016-09-18 18:18:05,658 - parser - INFO - Data conversion loading of ../settings/settings.json is successful
+2016-09-18 18:18:05,659 - parser - INFO - Validating ../settings/settings.json in <class 'parser.Settings_Parser'>
+2016-09-18 18:18:05,659 - parser - INFO - Validating 'active' in ../settings/settings.json
+2016-09-18 18:18:05,659 - parser - INFO - Validating 'logging' in ../settings/settings.json
+2016-09-18 18:18:05,659 - parser - INFO - Validating 'notification_email' in ../settings/settings.json
+2016-09-18 18:18:05,660 - parser - INFO - Validating 'refresh' in ../settings/settings.json
+2016-09-18 18:18:05,660 - parser - INFO - Validating dates
+2016-09-18 18:18:05,660 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2016-09-18 18:18:05,670 - parser - INFO - --Validating Weekday
+2016-09-18 18:18:05,670 - parser - INFO - ----Validating locations
+2016-09-18 18:18:05,671 - parser - WARNING - No 'locations' provided, default any location
+2016-09-18 18:18:05,671 - parser - INFO - ----Validating hours
+2016-09-18 18:18:05,671 - parser - INFO - ------Validating hour_range
+2016-09-18 18:18:05,672 - parser - INFO - ------Validating actions
+2016-09-18 18:18:05,672 - parser - INFO - ../settings/settings.json successfully validated in <class 'parser.Settings_Parser'>, no errors
+2016-09-18 18:21:40,251 - parser - INFO - Loading ../settings/settings.json into parser <class 'parser.Settings_Parser'>
+2016-09-18 18:21:40,251 - parser - INFO - Converting ../settings/settings.json to dict
+2016-09-18 18:21:40,252 - parser - INFO - Data conversion loading of ../settings/settings.json is successful
+2016-09-18 18:21:40,252 - parser - INFO - Validating ../settings/settings.json in <class 'parser.Settings_Parser'>
+2016-09-18 18:21:40,252 - parser - INFO - Validating 'active' in ../settings/settings.json
+2016-09-18 18:21:40,253 - parser - INFO - Validating 'logging' in ../settings/settings.json
+2016-09-18 18:21:40,253 - parser - INFO - Validating 'notification_email' in ../settings/settings.json
+2016-09-18 18:21:40,253 - parser - INFO - Validating 'refresh' in ../settings/settings.json
+2016-09-18 18:21:40,253 - parser - INFO - Validating dates
+2016-09-18 18:21:40,254 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2016-09-18 18:21:40,262 - parser - INFO - --Validating Weekday
+2016-09-18 18:21:40,263 - parser - INFO - ----Validating locations
+2016-09-18 18:21:40,263 - parser - WARNING - No 'locations' provided, default any location
+2016-09-18 18:21:40,263 - parser - INFO - ----Validating hours
+2016-09-18 18:21:40,263 - parser - INFO - ------Validating hour_range
+2016-09-18 18:21:40,264 - parser - INFO - ------Validating actions
+2016-09-18 18:21:40,264 - parser - INFO - ../settings/settings.json successfully validated in <class 'parser.Settings_Parser'>, no errors
+2016-09-18 18:21:59,732 - parser - INFO - Loading ../settings/settings.json into parser <class 'parser.Settings_Parser'>
+2016-09-18 18:21:59,733 - parser - INFO - Converting ../settings/settings.json to dict
+2016-09-18 18:21:59,733 - parser - INFO - Data conversion loading of ../settings/settings.json is successful
+2016-09-18 18:21:59,734 - parser - INFO - Validating ../settings/settings.json in <class 'parser.Settings_Parser'>
+2016-09-18 18:21:59,734 - parser - INFO - Validating 'active' in ../settings/settings.json
+2016-09-18 18:21:59,734 - parser - INFO - Validating 'logging' in ../settings/settings.json
+2016-09-18 18:21:59,734 - parser - INFO - Validating 'notification_email' in ../settings/settings.json
+2016-09-18 18:21:59,735 - parser - INFO - Validating 'refresh' in ../settings/settings.json
+2016-09-18 18:21:59,735 - parser - INFO - Validating dates
+2016-09-18 18:21:59,735 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2016-09-18 18:21:59,744 - parser - INFO - --Validating Weekday
+2016-09-18 18:21:59,744 - parser - INFO - ----Validating locations
+2016-09-18 18:21:59,745 - parser - WARNING - No 'locations' provided, default any location
+2016-09-18 18:21:59,745 - parser - INFO - ----Validating hours
+2016-09-18 18:21:59,745 - parser - INFO - ------Validating hour_range
+2016-09-18 18:21:59,746 - parser - INFO - ------Validating actions
+2016-09-18 18:21:59,746 - parser - INFO - ../settings/settings.json successfully validated in <class 'parser.Settings_Parser'>, no errors
+2016-09-18 18:22:03,306 - parser - INFO - Loading ../settings/settings.json into parser <class 'parser.Settings_Parser'>
+2016-09-18 18:22:03,306 - parser - INFO - Converting ../settings/settings.json to dict
+2016-09-18 18:22:03,307 - parser - INFO - Data conversion loading of ../settings/settings.json is successful
+2016-09-18 18:22:03,307 - parser - INFO - Validating ../settings/settings.json in <class 'parser.Settings_Parser'>
+2016-09-18 18:22:03,308 - parser - INFO - Validating 'active' in ../settings/settings.json
+2016-09-18 18:22:03,308 - parser - INFO - Validating 'logging' in ../settings/settings.json
+2016-09-18 18:22:03,308 - parser - INFO - Validating 'notification_email' in ../settings/settings.json
+2016-09-18 18:22:03,309 - parser - INFO - Validating 'refresh' in ../settings/settings.json
+2016-09-18 18:22:03,309 - parser - INFO - Validating dates
+2016-09-18 18:22:03,309 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2016-09-18 18:22:03,321 - parser - INFO - --Validating Weekday
+2016-09-18 18:22:03,322 - parser - INFO - ----Validating locations
+2016-09-18 18:22:03,322 - parser - WARNING - No 'locations' provided, default any location
+2016-09-18 18:22:03,323 - parser - INFO - ----Validating hours
+2016-09-18 18:22:03,323 - parser - INFO - ------Validating hour_range
+2016-09-18 18:22:03,323 - parser - INFO - ------Validating actions
+2016-09-18 18:22:03,324 - parser - INFO - ../settings/settings.json successfully validated in <class 'parser.Settings_Parser'>, no errors
+2016-09-18 18:23:31,313 - parser - INFO - Loading ../settings/settings.json into parser <class 'parser.Settings_Parser'>
+2016-09-18 18:23:31,314 - parser - INFO - Converting ../settings/settings.json to dict
+2016-09-18 18:23:31,314 - parser - INFO - Data conversion loading of ../settings/settings.json is successful
+2016-09-18 18:23:31,315 - parser - INFO - Validating ../settings/settings.json in <class 'parser.Settings_Parser'>
+2016-09-18 18:23:31,315 - parser - INFO - Validating 'active' in ../settings/settings.json
+2016-09-18 18:23:31,315 - parser - INFO - Validating 'logging' in ../settings/settings.json
+2016-09-18 18:23:31,316 - parser - INFO - Validating 'notification_email' in ../settings/settings.json
+2016-09-18 18:23:31,316 - parser - INFO - Validating 'refresh' in ../settings/settings.json
+2016-09-18 18:23:31,317 - parser - INFO - Validating dates
+2016-09-18 18:23:31,317 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2016-09-18 18:23:31,329 - parser - INFO - --Validating Weekday
+2016-09-18 18:23:31,329 - parser - INFO - ----Validating locations
+2016-09-18 18:23:31,330 - parser - WARNING - No 'locations' provided, default any location
+2016-09-18 18:23:31,330 - parser - INFO - ----Validating hours
+2016-09-18 18:23:31,331 - parser - INFO - ------Validating hour_range
+2016-09-18 18:23:31,331 - parser - INFO - ------Validating actions
+2016-09-18 18:23:31,331 - parser - INFO - ../settings/settings.json successfully validated in <class 'parser.Settings_Parser'>, no errors
+2016-09-18 18:23:55,969 - parser - INFO - Loading ../settings/settings.json into parser <class 'parser.Settings_Parser'>
+2016-09-18 18:23:55,970 - parser - INFO - Converting ../settings/settings.json to dict
+2016-09-18 18:23:55,970 - parser - INFO - Data conversion loading of ../settings/settings.json is successful
+2016-09-18 18:23:55,970 - parser - INFO - Validating ../settings/settings.json in <class 'parser.Settings_Parser'>
+2016-09-18 18:23:55,971 - parser - INFO - Validating 'active' in ../settings/settings.json
+2016-09-18 18:23:55,971 - parser - INFO - Validating 'logging' in ../settings/settings.json
+2016-09-18 18:23:55,971 - parser - INFO - Validating 'notification_email' in ../settings/settings.json
+2016-09-18 18:23:55,971 - parser - INFO - Validating 'refresh' in ../settings/settings.json
+2016-09-18 18:23:55,972 - parser - INFO - Validating dates
+2016-09-18 18:23:55,972 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2016-09-18 18:23:55,981 - parser - INFO - --Validating Weekday
+2016-09-18 18:23:55,981 - parser - INFO - ----Validating locations
+2016-09-18 18:23:55,982 - parser - WARNING - No 'locations' provided, default any location
+2016-09-18 18:23:55,982 - parser - INFO - ----Validating hours
+2016-09-18 18:23:55,983 - parser - INFO - ------Validating hour_range
+2016-09-18 18:23:55,983 - parser - INFO - ------Validating actions
+2016-09-18 18:23:55,984 - parser - INFO - ../settings/settings.json successfully validated in <class 'parser.Settings_Parser'>, no errors
+2016-09-18 18:26:39,928 - parser - INFO - Loading ../settings/settings.json into parser <class 'parser.Settings_Parser'>
+2016-09-18 18:26:39,929 - parser - INFO - Converting ../settings/settings.json to dict
+2016-09-18 18:26:39,929 - parser - INFO - Data conversion loading of ../settings/settings.json is successful
+2016-09-18 18:26:39,930 - parser - INFO - Validating ../settings/settings.json in <class 'parser.Settings_Parser'>
+2016-09-18 18:26:39,930 - parser - INFO - Validating 'active' in ../settings/settings.json
+2016-09-18 18:26:39,930 - parser - INFO - Validating 'logging' in ../settings/settings.json
+2016-09-18 18:26:39,930 - parser - INFO - Validating 'notification_email' in ../settings/settings.json
+2016-09-18 18:26:39,931 - parser - INFO - Validating 'refresh' in ../settings/settings.json
+2016-09-18 18:26:39,931 - parser - INFO - Validating dates
+2016-09-18 18:26:39,931 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2016-09-18 18:26:39,940 - parser - INFO - --Validating Weekday
+2016-09-18 18:26:39,941 - parser - INFO - ----Validating locations
+2016-09-18 18:26:39,941 - parser - WARNING - No 'locations' provided, default any location
+2016-09-18 18:26:39,941 - parser - INFO - ----Validating hours
+2016-09-18 18:26:39,941 - parser - INFO - ------Validating hour_range
+2016-09-18 18:26:39,942 - parser - INFO - ------Validating actions
+2016-09-18 18:26:39,942 - parser - INFO - ../settings/settings.json successfully validated in <class 'parser.Settings_Parser'>, no errors
+2016-09-18 18:26:57,003 - parser - INFO - Loading ../settings/settings.json into parser <class 'parser.Settings_Parser'>
+2016-09-18 18:26:57,004 - parser - INFO - Converting ../settings/settings.json to dict
+2016-09-18 18:26:57,004 - parser - INFO - Data conversion loading of ../settings/settings.json is successful
+2016-09-18 18:26:57,004 - parser - INFO - Validating ../settings/settings.json in <class 'parser.Settings_Parser'>
+2016-09-18 18:26:57,005 - parser - INFO - Validating 'active' in ../settings/settings.json
+2016-09-18 18:26:57,005 - parser - INFO - Validating 'logging' in ../settings/settings.json
+2016-09-18 18:26:57,005 - parser - INFO - Validating 'notification_email' in ../settings/settings.json
+2016-09-18 18:26:57,005 - parser - INFO - Validating 'refresh' in ../settings/settings.json
+2016-09-18 18:26:57,006 - parser - INFO - Validating dates
+2016-09-18 18:26:57,006 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2016-09-18 18:26:57,015 - parser - INFO - --Validating Weekday
+2016-09-18 18:26:57,015 - parser - INFO - ----Validating locations
+2016-09-18 18:26:57,015 - parser - WARNING - No 'locations' provided, default any location
+2016-09-18 18:26:57,016 - parser - INFO - ----Validating hours
+2016-09-18 18:26:57,016 - parser - INFO - ------Validating hour_range
+2016-09-18 18:26:57,016 - parser - INFO - ------Validating actions
+2016-09-18 18:26:57,017 - parser - INFO - ../settings/settings.json successfully validated in <class 'parser.Settings_Parser'>, no errors
+2016-09-18 18:27:22,714 - parser - INFO - Loading ../settings/settings.json into parser <class 'parser.Settings_Parser'>
+2016-09-18 18:27:22,715 - parser - INFO - Converting ../settings/settings.json to dict
+2016-09-18 18:27:22,715 - parser - INFO - Data conversion loading of ../settings/settings.json is successful
+2016-09-18 18:27:22,715 - parser - INFO - Validating ../settings/settings.json in <class 'parser.Settings_Parser'>
+2016-09-18 18:27:22,716 - parser - INFO - Validating 'active' in ../settings/settings.json
+2016-09-18 18:27:22,716 - parser - INFO - Validating 'logging' in ../settings/settings.json
+2016-09-18 18:27:22,716 - parser - INFO - Validating 'notification_email' in ../settings/settings.json
+2016-09-18 18:27:22,716 - parser - INFO - Validating 'refresh' in ../settings/settings.json
+2016-09-18 18:27:22,717 - parser - INFO - Validating dates
+2016-09-18 18:27:22,717 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2016-09-18 18:27:22,726 - parser - INFO - --Validating Weekday
+2016-09-18 18:27:22,727 - parser - INFO - ----Validating locations
+2016-09-18 18:27:22,727 - parser - WARNING - No 'locations' provided, default any location
+2016-09-18 18:27:22,728 - parser - INFO - ----Validating hours
+2016-09-18 18:27:22,728 - parser - INFO - ------Validating hour_range
+2016-09-18 18:27:22,728 - parser - INFO - ------Validating actions
+2016-09-18 18:27:22,729 - parser - INFO - ../settings/settings.json successfully validated in <class 'parser.Settings_Parser'>, no errors
+2016-09-18 18:27:29,179 - parser - INFO - Loading ../settings/settings.json into parser <class 'parser.Settings_Parser'>
+2016-09-18 18:27:29,179 - parser - INFO - Converting ../settings/settings.json to dict
+2016-09-18 18:27:29,180 - parser - INFO - Data conversion loading of ../settings/settings.json is successful
+2016-09-18 18:27:29,180 - parser - INFO - Validating ../settings/settings.json in <class 'parser.Settings_Parser'>
+2016-09-18 18:27:29,180 - parser - INFO - Validating 'active' in ../settings/settings.json
+2016-09-18 18:27:29,181 - parser - INFO - Validating 'logging' in ../settings/settings.json
+2016-09-18 18:27:29,181 - parser - INFO - Validating 'notification_email' in ../settings/settings.json
+2016-09-18 18:27:29,181 - parser - INFO - Validating 'refresh' in ../settings/settings.json
+2016-09-18 18:27:29,181 - parser - INFO - Validating dates
+2016-09-18 18:27:29,182 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2016-09-18 18:27:29,192 - parser - INFO - --Validating Weekday
+2016-09-18 18:27:29,192 - parser - INFO - ----Validating locations
+2016-09-18 18:27:29,192 - parser - WARNING - No 'locations' provided, default any location
+2016-09-18 18:27:29,193 - parser - INFO - ----Validating hours
+2016-09-18 18:27:29,193 - parser - INFO - ------Validating hour_range
+2016-09-18 18:27:29,193 - parser - INFO - ------Validating actions
+2016-09-18 18:27:29,193 - parser - INFO - ../settings/settings.json successfully validated in <class 'parser.Settings_Parser'>, no errors
+2016-09-18 18:27:48,961 - parser - INFO - Loading ../settings/settings.json into parser <class 'parser.Settings_Parser'>
+2016-09-18 18:27:48,962 - parser - INFO - Converting ../settings/settings.json to dict
+2016-09-18 18:27:48,963 - parser - INFO - Data conversion loading of ../settings/settings.json is successful
+2016-09-18 18:27:48,964 - parser - INFO - Validating ../settings/settings.json in <class 'parser.Settings_Parser'>
+2016-09-18 18:27:48,965 - parser - INFO - Validating 'active' in ../settings/settings.json
+2016-09-18 18:27:48,965 - parser - INFO - Validating 'logging' in ../settings/settings.json
+2016-09-18 18:27:48,966 - parser - INFO - Validating 'notification_email' in ../settings/settings.json
+2016-09-18 18:27:48,966 - parser - INFO - Validating 'refresh' in ../settings/settings.json
+2016-09-18 18:27:48,967 - parser - INFO - Validating dates
+2016-09-18 18:27:48,968 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2016-09-18 18:27:48,984 - parser - INFO - --Validating Weekday
+2016-09-18 18:27:48,984 - parser - INFO - ----Validating locations
+2016-09-18 18:27:48,985 - parser - WARNING - No 'locations' provided, default any location
+2016-09-18 18:27:48,985 - parser - INFO - ----Validating hours
+2016-09-18 18:27:48,986 - parser - INFO - ------Validating hour_range
+2016-09-18 18:27:48,986 - parser - INFO - ------Validating actions
+2016-09-18 18:27:48,986 - parser - INFO - ../settings/settings.json successfully validated in <class 'parser.Settings_Parser'>, no errors
+2016-09-18 18:28:20,336 - parser - INFO - Loading ../settings/settings.json into parser <class 'parser.Settings_Parser'>
+2016-09-18 18:28:20,337 - parser - INFO - Converting ../settings/settings.json to dict
+2016-09-18 18:28:20,337 - parser - INFO - Data conversion loading of ../settings/settings.json is successful
+2016-09-18 18:28:20,338 - parser - INFO - Validating ../settings/settings.json in <class 'parser.Settings_Parser'>
+2016-09-18 18:28:20,338 - parser - INFO - Validating 'active' in ../settings/settings.json
+2016-09-18 18:28:20,338 - parser - INFO - Validating 'logging' in ../settings/settings.json
+2016-09-18 18:28:20,338 - parser - INFO - Validating 'notification_email' in ../settings/settings.json
+2016-09-18 18:28:20,339 - parser - INFO - Validating 'refresh' in ../settings/settings.json
+2016-09-18 18:28:20,339 - parser - INFO - Validating dates
+2016-09-18 18:28:20,340 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2016-09-18 18:28:20,348 - parser - INFO - --Validating Weekday
+2016-09-18 18:28:20,349 - parser - INFO - ----Validating locations
+2016-09-18 18:28:20,349 - parser - WARNING - No 'locations' provided, default any location
+2016-09-18 18:28:20,350 - parser - INFO - ----Validating hours
+2016-09-18 18:28:20,354 - parser - INFO - ------Validating hour_range
+2016-09-18 18:28:20,355 - parser - INFO - ------Validating actions
+2016-09-18 18:28:20,356 - parser - INFO - ../settings/settings.json successfully validated in <class 'parser.Settings_Parser'>, no errors
+2016-09-18 18:28:35,899 - parser - INFO - Loading ../settings/settings.json into parser <class 'parser.Settings_Parser'>
+2016-09-18 18:28:35,900 - parser - INFO - Converting ../settings/settings.json to dict
+2016-09-18 18:28:35,900 - parser - INFO - Data conversion loading of ../settings/settings.json is successful
+2016-09-18 18:28:35,901 - parser - INFO - Validating ../settings/settings.json in <class 'parser.Settings_Parser'>
+2016-09-18 18:28:35,901 - parser - INFO - Validating 'active' in ../settings/settings.json
+2016-09-18 18:28:35,901 - parser - INFO - Validating 'logging' in ../settings/settings.json
+2016-09-18 18:28:35,902 - parser - INFO - Validating 'notification_email' in ../settings/settings.json
+2016-09-18 18:28:35,902 - parser - INFO - Validating 'refresh' in ../settings/settings.json
+2016-09-18 18:28:35,902 - parser - INFO - Validating dates
+2016-09-18 18:28:35,902 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2016-09-18 18:28:35,913 - parser - INFO - --Validating Weekday
+2016-09-18 18:28:35,913 - parser - INFO - ----Validating locations
+2016-09-18 18:28:35,914 - parser - WARNING - No 'locations' provided, default any location
+2016-09-18 18:28:35,914 - parser - INFO - ----Validating hours
+2016-09-18 18:28:35,914 - parser - INFO - ------Validating hour_range
+2016-09-18 18:28:35,915 - parser - INFO - ------Validating actions
+2016-09-18 18:28:35,915 - parser - INFO - ../settings/settings.json successfully validated in <class 'parser.Settings_Parser'>, no errors
+2016-09-18 18:28:43,964 - parser - INFO - Loading ../settings/settings.json into parser <class 'parser.Settings_Parser'>
+2016-09-18 18:28:43,965 - parser - INFO - Converting ../settings/settings.json to dict
+2016-09-18 18:28:43,965 - parser - INFO - Data conversion loading of ../settings/settings.json is successful
+2016-09-18 18:28:43,965 - parser - INFO - Validating ../settings/settings.json in <class 'parser.Settings_Parser'>
+2016-09-18 18:28:43,966 - parser - INFO - Validating 'active' in ../settings/settings.json
+2016-09-18 18:28:43,966 - parser - INFO - Validating 'logging' in ../settings/settings.json
+2016-09-18 18:28:43,966 - parser - INFO - Validating 'notification_email' in ../settings/settings.json
+2016-09-18 18:28:43,967 - parser - INFO - Validating 'refresh' in ../settings/settings.json
+2016-09-18 18:28:43,967 - parser - INFO - Validating dates
+2016-09-18 18:28:43,967 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2016-09-18 18:28:43,976 - parser - INFO - --Validating Weekday
+2016-09-18 18:28:43,976 - parser - INFO - ----Validating locations
+2016-09-18 18:28:43,976 - parser - WARNING - No 'locations' provided, default any location
+2016-09-18 18:28:43,977 - parser - INFO - ----Validating hours
+2016-09-18 18:28:43,977 - parser - INFO - ------Validating hour_range
+2016-09-18 18:28:43,977 - parser - INFO - ------Validating actions
+2016-09-18 18:28:43,978 - parser - INFO - ../settings/settings.json successfully validated in <class 'parser.Settings_Parser'>, no errors
+2016-09-18 18:30:16,313 - parser - INFO - Loading ../settings/settings.json into parser <class 'parser.Settings_Parser'>
+2016-09-18 18:30:16,314 - parser - INFO - Converting ../settings/settings.json to dict
+2016-09-18 18:30:16,314 - parser - INFO - Data conversion loading of ../settings/settings.json is successful
+2016-09-18 18:30:16,314 - parser - INFO - Validating ../settings/settings.json in <class 'parser.Settings_Parser'>
+2016-09-18 18:30:16,315 - parser - INFO - Validating 'active' in ../settings/settings.json
+2016-09-18 18:30:16,315 - parser - INFO - Validating 'logging' in ../settings/settings.json
+2016-09-18 18:30:16,315 - parser - INFO - Validating 'notification_email' in ../settings/settings.json
+2016-09-18 18:30:16,316 - parser - INFO - Validating 'refresh' in ../settings/settings.json
+2016-09-18 18:30:16,316 - parser - INFO - Validating dates
+2016-09-18 18:30:16,316 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2016-09-18 18:30:16,325 - parser - INFO - --Validating Weekday
+2016-09-18 18:30:16,326 - parser - INFO - ----Validating locations
+2016-09-18 18:30:16,326 - parser - WARNING - No 'locations' provided, default any location
+2016-09-18 18:30:16,326 - parser - INFO - ----Validating hours
+2016-09-18 18:30:16,327 - parser - INFO - ------Validating hour_range
+2016-09-18 18:30:16,327 - parser - INFO - ------Validating actions
+2016-09-18 18:30:16,327 - parser - INFO - ../settings/settings.json successfully validated in <class 'parser.Settings_Parser'>, no errors
+2016-09-18 18:30:41,594 - parser - INFO - Loading ../settings/settings.json into parser <class 'parser.Settings_Parser'>
+2016-09-18 18:30:41,595 - parser - INFO - Converting ../settings/settings.json to dict
+2016-09-18 18:30:41,596 - parser - INFO - Data conversion loading of ../settings/settings.json is successful
+2016-09-18 18:30:41,596 - parser - INFO - Validating ../settings/settings.json in <class 'parser.Settings_Parser'>
+2016-09-18 18:30:41,597 - parser - INFO - Validating 'active' in ../settings/settings.json
+2016-09-18 18:30:41,597 - parser - INFO - Validating 'logging' in ../settings/settings.json
+2016-09-18 18:30:41,597 - parser - INFO - Validating 'notification_email' in ../settings/settings.json
+2016-09-18 18:30:41,598 - parser - INFO - Validating 'refresh' in ../settings/settings.json
+2016-09-18 18:30:41,598 - parser - INFO - Validating dates
+2016-09-18 18:30:41,599 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2016-09-18 18:30:41,610 - parser - INFO - --Validating Weekday
+2016-09-18 18:30:41,611 - parser - INFO - ----Validating locations
+2016-09-18 18:30:41,611 - parser - WARNING - No 'locations' provided, default any location
+2016-09-18 18:30:41,611 - parser - INFO - ----Validating hours
+2016-09-18 18:30:41,612 - parser - INFO - ------Validating hour_range
+2016-09-18 18:30:41,612 - parser - INFO - ------Validating actions
+2016-09-18 18:30:41,612 - parser - INFO - ../settings/settings.json successfully validated in <class 'parser.Settings_Parser'>, no errors
+2016-09-18 18:31:14,591 - parser - INFO - Loading ../settings/settings.json into parser <class 'parser.Settings_Parser'>
+2016-09-18 18:31:14,591 - parser - INFO - Converting ../settings/settings.json to dict
+2016-09-18 18:31:14,592 - parser - INFO - Data conversion loading of ../settings/settings.json is successful
+2016-09-18 18:31:14,592 - parser - INFO - Validating ../settings/settings.json in <class 'parser.Settings_Parser'>
+2016-09-18 18:31:14,592 - parser - INFO - Validating 'active' in ../settings/settings.json
+2016-09-18 18:31:14,593 - parser - INFO - Validating 'logging' in ../settings/settings.json
+2016-09-18 18:31:14,593 - parser - INFO - Validating 'notification_email' in ../settings/settings.json
+2016-09-18 18:31:14,593 - parser - INFO - Validating 'refresh' in ../settings/settings.json
+2016-09-18 18:31:14,593 - parser - INFO - Validating dates
+2016-09-18 18:31:14,594 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2016-09-18 18:31:14,603 - parser - INFO - --Validating Weekday
+2016-09-18 18:31:14,603 - parser - INFO - ----Validating locations
+2016-09-18 18:31:14,603 - parser - WARNING - No 'locations' provided, default any location
+2016-09-18 18:31:14,604 - parser - INFO - ----Validating hours
+2016-09-18 18:31:14,604 - parser - INFO - ------Validating hour_range
+2016-09-18 18:31:14,604 - parser - INFO - ------Validating actions
+2016-09-18 18:31:14,604 - parser - INFO - ../settings/settings.json successfully validated in <class 'parser.Settings_Parser'>, no errors
+2016-09-18 18:44:58,949 - parser - INFO - Loading ../settings/settings.json into parser <class 'parser.Settings_Parser'>
+2016-09-18 18:44:58,950 - parser - INFO - Converting ../settings/settings.json to dict
+2016-09-18 18:44:58,950 - parser - INFO - Data conversion loading of ../settings/settings.json is successful
+2016-09-18 18:44:58,950 - parser - INFO - Validating ../settings/settings.json in <class 'parser.Settings_Parser'>
+2016-09-18 18:44:58,951 - parser - INFO - Validating 'active' in ../settings/settings.json
+2016-09-18 18:44:58,951 - parser - INFO - Validating 'logging' in ../settings/settings.json
+2016-09-18 18:44:58,951 - parser - INFO - Validating 'notification_email' in ../settings/settings.json
+2016-09-18 18:44:58,951 - parser - INFO - Validating 'refresh' in ../settings/settings.json
+2016-09-18 18:44:58,952 - parser - INFO - Validating dates
+2016-09-18 18:44:58,952 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2016-09-18 18:44:58,961 - parser - INFO - --Validating Weekday
+2016-09-18 18:44:58,962 - parser - INFO - ----Validating locations
+2016-09-18 18:44:58,962 - parser - WARNING - No 'locations' provided, default any location
+2016-09-18 18:44:58,962 - parser - INFO - ----Validating hours
+2016-09-18 18:44:58,963 - parser - INFO - ------Validating hour_range
+2016-09-18 18:44:58,963 - parser - INFO - ------Validating actions
+2016-09-18 18:44:58,963 - parser - INFO - ../settings/settings.json successfully validated in <class 'parser.Settings_Parser'>, no errors
+2016-09-18 18:47:14,069 - parser - INFO - Loading ../settings/settings.json into parser <class 'parser.Settings_Parser'>
+2016-09-18 18:47:14,070 - parser - INFO - Converting ../settings/settings.json to dict
+2016-09-18 18:47:14,070 - parser - INFO - Data conversion loading of ../settings/settings.json is successful
+2016-09-18 18:47:14,071 - parser - INFO - Validating ../settings/settings.json in <class 'parser.Settings_Parser'>
+2016-09-18 18:47:14,071 - parser - INFO - Validating 'active' in ../settings/settings.json
+2016-09-18 18:47:14,071 - parser - INFO - Validating 'logging' in ../settings/settings.json
+2016-09-18 18:47:14,071 - parser - INFO - Validating 'notification_email' in ../settings/settings.json
+2016-09-18 18:47:14,072 - parser - INFO - Validating 'refresh' in ../settings/settings.json
+2016-09-18 18:47:14,072 - parser - INFO - Validating dates
+2016-09-18 18:47:14,072 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2016-09-18 18:47:14,083 - parser - INFO - --Validating Weekday
+2016-09-18 18:47:14,084 - parser - INFO - ----Validating locations
+2016-09-18 18:47:14,084 - parser - WARNING - No 'locations' provided, default any location
+2016-09-18 18:47:14,084 - parser - INFO - ----Validating hours
+2016-09-18 18:47:14,085 - parser - INFO - ------Validating hour_range
+2016-09-18 18:47:14,085 - parser - INFO - ------Validating actions
+2016-09-18 18:47:14,085 - parser - INFO - ../settings/settings.json successfully validated in <class 'parser.Settings_Parser'>, no errors
+2016-09-18 18:47:49,805 - parser - INFO - Loading ../settings/settings.json into parser <class 'parser.Settings_Parser'>
+2016-09-18 18:47:49,805 - parser - INFO - Converting ../settings/settings.json to dict
+2016-09-18 18:47:49,806 - parser - INFO - Data conversion loading of ../settings/settings.json is successful
+2016-09-18 18:47:49,806 - parser - INFO - Validating ../settings/settings.json in <class 'parser.Settings_Parser'>
+2016-09-18 18:47:49,806 - parser - INFO - Validating 'active' in ../settings/settings.json
+2016-09-18 18:47:49,807 - parser - INFO - Validating 'logging' in ../settings/settings.json
+2016-09-18 18:47:49,807 - parser - INFO - Validating 'notification_email' in ../settings/settings.json
+2016-09-18 18:47:49,807 - parser - INFO - Validating 'refresh' in ../settings/settings.json
+2016-09-18 18:47:49,808 - parser - INFO - Validating dates
+2016-09-18 18:47:49,808 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2016-09-18 18:47:49,818 - parser - INFO - --Validating Weekday
+2016-09-18 18:47:49,818 - parser - INFO - ----Validating locations
+2016-09-18 18:47:49,819 - parser - WARNING - No 'locations' provided, default any location
+2016-09-18 18:47:49,819 - parser - INFO - ----Validating hours
+2016-09-18 18:47:49,819 - parser - INFO - ------Validating hour_range
+2016-09-18 18:47:49,819 - parser - INFO - ------Validating actions
+2016-09-18 18:47:49,820 - parser - INFO - ../settings/settings.json successfully validated in <class 'parser.Settings_Parser'>, no errors
+2016-09-18 18:49:11,169 - parser - INFO - Loading ../settings/settings.json into parser <class 'parser.Settings_Parser'>
+2016-09-18 18:49:11,170 - parser - INFO - Converting ../settings/settings.json to dict
+2016-09-18 18:49:11,170 - parser - INFO - Data conversion loading of ../settings/settings.json is successful
+2016-09-18 18:49:11,170 - parser - INFO - Validating ../settings/settings.json in <class 'parser.Settings_Parser'>
+2016-09-18 18:49:11,171 - parser - INFO - Validating 'active' in ../settings/settings.json
+2016-09-18 18:49:11,171 - parser - INFO - Validating 'logging' in ../settings/settings.json
+2016-09-18 18:49:11,171 - parser - INFO - Validating 'notification_email' in ../settings/settings.json
+2016-09-18 18:49:11,171 - parser - INFO - Validating 'refresh' in ../settings/settings.json
+2016-09-18 18:49:11,172 - parser - INFO - Validating dates
+2016-09-18 18:49:11,172 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2016-09-18 18:49:11,182 - parser - INFO - --Validating Weekday
+2016-09-18 18:49:11,182 - parser - INFO - ----Validating locations
+2016-09-18 18:49:11,182 - parser - WARNING - No 'locations' provided, default any location
+2016-09-18 18:49:11,183 - parser - INFO - ----Validating hours
+2016-09-18 18:49:11,183 - parser - INFO - ------Validating hour_range
+2016-09-18 18:49:11,183 - parser - INFO - ------Validating actions
+2016-09-18 18:49:11,183 - parser - INFO - ../settings/settings.json successfully validated in <class 'parser.Settings_Parser'>, no errors
+2016-09-18 18:50:45,136 - parser - INFO - Loading ../settings/settings.json into parser <class 'parser.Settings_Parser'>
+2016-09-18 18:50:45,137 - parser - INFO - Converting ../settings/settings.json to dict
+2016-09-18 18:50:45,137 - parser - INFO - Data conversion loading of ../settings/settings.json is successful
+2016-09-18 18:50:45,138 - parser - INFO - Validating ../settings/settings.json in <class 'parser.Settings_Parser'>
+2016-09-18 18:50:45,138 - parser - INFO - Validating 'active' in ../settings/settings.json
+2016-09-18 18:50:45,138 - parser - INFO - Validating 'logging' in ../settings/settings.json
+2016-09-18 18:50:45,139 - parser - INFO - Validating 'notification_email' in ../settings/settings.json
+2016-09-18 18:50:45,139 - parser - INFO - Validating 'refresh' in ../settings/settings.json
+2016-09-18 18:50:45,139 - parser - INFO - Validating dates
+2016-09-18 18:50:45,140 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2016-09-18 18:50:45,150 - parser - INFO - --Validating Weekday
+2016-09-18 18:50:45,150 - parser - INFO - ----Validating locations
+2016-09-18 18:50:45,151 - parser - WARNING - No 'locations' provided, default any location
+2016-09-18 18:50:45,151 - parser - INFO - ----Validating hours
+2016-09-18 18:50:45,151 - parser - INFO - ------Validating hour_range
+2016-09-18 18:50:45,152 - parser - INFO - ------Validating actions
+2016-09-18 18:50:45,152 - parser - INFO - ../settings/settings.json successfully validated in <class 'parser.Settings_Parser'>, no errors
+2016-09-18 19:00:09,407 - parser - INFO - Loading ../settings/settings.json into parser <class 'parser.Settings_Parser'>
+2016-09-18 19:00:09,407 - parser - INFO - Converting ../settings/settings.json to dict
+2016-09-18 19:00:09,408 - parser - INFO - Data conversion loading of ../settings/settings.json is successful
+2016-09-18 19:00:09,408 - parser - INFO - Validating ../settings/settings.json in <class 'parser.Settings_Parser'>
+2016-09-18 19:00:09,408 - parser - INFO - Validating 'active' in ../settings/settings.json
+2016-09-18 19:00:09,409 - parser - INFO - Validating 'logging' in ../settings/settings.json
+2016-09-18 19:00:09,409 - parser - INFO - Validating 'notification_email' in ../settings/settings.json
+2016-09-18 19:00:09,409 - parser - INFO - Validating 'refresh' in ../settings/settings.json
+2016-09-18 19:00:09,409 - parser - INFO - Validating dates
+2016-09-18 19:00:09,410 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2016-09-18 19:00:09,418 - parser - INFO - --Validating Weekday
+2016-09-18 19:00:09,419 - parser - INFO - ----Validating locations
+2016-09-18 19:00:09,419 - parser - WARNING - No 'locations' provided, default any location
+2016-09-18 19:00:09,419 - parser - INFO - ----Validating hours
+2016-09-18 19:00:09,420 - parser - INFO - ------Validating hour_range
+2016-09-18 19:00:09,420 - parser - INFO - ------Validating actions
+2016-09-18 19:00:09,420 - parser - INFO - ../settings/settings.json successfully validated in <class 'parser.Settings_Parser'>, no errors
+2016-09-18 19:01:01,081 - parser - INFO - Loading ../settings/settings.json into parser <class 'parser.Settings_Parser'>
+2016-09-18 19:01:01,082 - parser - INFO - Converting ../settings/settings.json to dict
+2016-09-18 19:01:01,082 - parser - INFO - Data conversion loading of ../settings/settings.json is successful
+2016-09-18 19:01:01,083 - parser - INFO - Validating ../settings/settings.json in <class 'parser.Settings_Parser'>
+2016-09-18 19:01:01,083 - parser - INFO - Validating 'active' in ../settings/settings.json
+2016-09-18 19:01:01,083 - parser - INFO - Validating 'logging' in ../settings/settings.json
+2016-09-18 19:01:01,083 - parser - INFO - Validating 'notification_email' in ../settings/settings.json
+2016-09-18 19:01:01,084 - parser - INFO - Validating 'refresh' in ../settings/settings.json
+2016-09-18 19:01:01,084 - parser - INFO - Validating dates
+2016-09-18 19:01:01,084 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2016-09-18 19:01:01,093 - parser - INFO - --Validating Weekday
+2016-09-18 19:01:01,093 - parser - INFO - ----Validating locations
+2016-09-18 19:01:01,094 - parser - WARNING - No 'locations' provided, default any location
+2016-09-18 19:01:01,094 - parser - INFO - ----Validating hours
+2016-09-18 19:01:01,094 - parser - INFO - ------Validating hour_range
+2016-09-18 19:01:01,095 - parser - INFO - ------Validating actions
+2016-09-18 19:01:01,095 - parser - INFO - ../settings/settings.json successfully validated in <class 'parser.Settings_Parser'>, no errors
+2016-09-18 19:01:32,582 - parser - INFO - Loading ../settings/settings.json into parser <class 'parser.Settings_Parser'>
+2016-09-18 19:01:32,582 - parser - INFO - Converting ../settings/settings.json to dict
+2016-09-18 19:01:32,583 - parser - INFO - Data conversion loading of ../settings/settings.json is successful
+2016-09-18 19:01:32,583 - parser - INFO - Validating ../settings/settings.json in <class 'parser.Settings_Parser'>
+2016-09-18 19:01:32,583 - parser - INFO - Validating 'active' in ../settings/settings.json
+2016-09-18 19:01:32,583 - parser - INFO - Validating 'logging' in ../settings/settings.json
+2016-09-18 19:01:32,584 - parser - INFO - Validating 'notification_email' in ../settings/settings.json
+2016-09-18 19:01:32,584 - parser - INFO - Validating 'refresh' in ../settings/settings.json
+2016-09-18 19:01:32,584 - parser - INFO - Validating dates
+2016-09-18 19:01:32,584 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2016-09-18 19:01:32,600 - parser - INFO - --Validating Weekday
+2016-09-18 19:01:32,600 - parser - INFO - ----Validating locations
+2016-09-18 19:01:32,601 - parser - WARNING - No 'locations' provided, default any location
+2016-09-18 19:01:32,601 - parser - INFO - ----Validating hours
+2016-09-18 19:01:32,601 - parser - INFO - ------Validating hour_range
+2016-09-18 19:01:32,602 - parser - INFO - ------Validating actions
+2016-09-18 19:01:32,602 - parser - INFO - ../settings/settings.json successfully validated in <class 'parser.Settings_Parser'>, no errors
+2016-09-18 19:05:57,712 - parser - INFO - Loading ../settings/settings.json into parser <class 'parser.Settings_Parser'>
+2016-09-18 19:05:57,713 - parser - INFO - Converting ../settings/settings.json to dict
+2016-09-18 19:05:57,713 - parser - INFO - Data conversion loading of ../settings/settings.json is successful
+2016-09-18 19:05:57,713 - parser - INFO - Validating ../settings/settings.json in <class 'parser.Settings_Parser'>
+2016-09-18 19:05:57,713 - parser - INFO - Validating 'active' in ../settings/settings.json
+2016-09-18 19:05:57,714 - parser - INFO - Validating 'logging' in ../settings/settings.json
+2016-09-18 19:05:57,714 - parser - INFO - Validating 'notification_email' in ../settings/settings.json
+2016-09-18 19:05:57,714 - parser - INFO - Validating 'refresh' in ../settings/settings.json
+2016-09-18 19:05:57,714 - parser - INFO - Validating dates
+2016-09-18 19:05:57,714 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2016-09-18 19:05:57,724 - parser - INFO - --Validating Weekday
+2016-09-18 19:05:57,724 - parser - INFO - ----Validating locations
+2016-09-18 19:05:57,724 - parser - WARNING - No 'locations' provided, default any location
+2016-09-18 19:05:57,724 - parser - INFO - ----Validating hours
+2016-09-18 19:05:57,725 - parser - INFO - ------Validating hour_range
+2016-09-18 19:05:57,725 - parser - INFO - ------Validating actions
+2016-09-18 19:05:57,725 - parser - INFO - ../settings/settings.json successfully validated in <class 'parser.Settings_Parser'>, no errors
+2016-09-18 19:16:54,621 - parser - INFO - Loading ../settings/settings.json into parser <class 'parser.Settings_Parser'>
+2016-09-18 19:16:54,622 - parser - INFO - Converting ../settings/settings.json to dict
+2016-09-18 19:16:54,622 - parser - INFO - Data conversion loading of ../settings/settings.json is successful
+2016-09-18 19:16:54,622 - parser - INFO - Validating ../settings/settings.json in <class 'parser.Settings_Parser'>
+2016-09-18 19:16:54,622 - parser - INFO - Validating 'active' in ../settings/settings.json
+2016-09-18 19:16:54,622 - parser - INFO - Validating 'logging' in ../settings/settings.json
+2016-09-18 19:16:54,623 - parser - INFO - Validating 'notification_email' in ../settings/settings.json
+2016-09-18 19:16:54,623 - parser - INFO - Validating 'refresh' in ../settings/settings.json
+2016-09-18 19:16:54,623 - parser - INFO - Validating dates
+2016-09-18 19:16:54,623 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2016-09-18 19:16:54,632 - parser - INFO - --Validating Weekday
+2016-09-18 19:16:54,633 - parser - INFO - ----Validating locations
+2016-09-18 19:16:54,633 - parser - WARNING - No 'locations' provided, default any location
+2016-09-18 19:16:54,633 - parser - INFO - ----Validating hours
+2016-09-18 19:16:54,633 - parser - INFO - ------Validating hour_range
+2016-09-18 19:16:54,633 - parser - INFO - ------Validating actions
+2016-09-18 19:16:54,633 - parser - INFO - ../settings/settings.json successfully validated in <class 'parser.Settings_Parser'>, no errors
+2016-09-18 19:17:11,878 - parser - INFO - Loading ../settings/settings.json into parser <class 'parser.Settings_Parser'>
+2016-09-18 19:17:11,879 - parser - INFO - Converting ../settings/settings.json to dict
+2016-09-18 19:17:11,879 - parser - INFO - Data conversion loading of ../settings/settings.json is successful
+2016-09-18 19:17:11,879 - parser - INFO - Validating ../settings/settings.json in <class 'parser.Settings_Parser'>
+2016-09-18 19:17:11,880 - parser - INFO - Validating 'active' in ../settings/settings.json
+2016-09-18 19:17:11,880 - parser - INFO - Validating 'logging' in ../settings/settings.json
+2016-09-18 19:17:11,880 - parser - INFO - Validating 'notification_email' in ../settings/settings.json
+2016-09-18 19:17:11,881 - parser - INFO - Validating 'refresh' in ../settings/settings.json
+2016-09-18 19:17:11,881 - parser - INFO - Validating dates
+2016-09-18 19:17:11,881 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2016-09-18 19:17:11,890 - parser - INFO - --Validating Weekday
+2016-09-18 19:17:11,890 - parser - INFO - ----Validating locations
+2016-09-18 19:17:11,890 - parser - WARNING - No 'locations' provided, default any location
+2016-09-18 19:17:11,891 - parser - INFO - ----Validating hours
+2016-09-18 19:17:11,891 - parser - INFO - ------Validating hour_range
+2016-09-18 19:17:11,891 - parser - INFO - ------Validating actions
+2016-09-18 19:17:11,891 - parser - INFO - ../settings/settings.json successfully validated in <class 'parser.Settings_Parser'>, no errors
+2016-09-18 19:19:23,675 - parser - INFO - Loading ../settings/settings.json into parser <class 'parser.Settings_Parser'>
+2016-09-18 19:19:23,675 - parser - INFO - Converting ../settings/settings.json to dict
+2016-09-18 19:19:23,676 - parser - INFO - Data conversion loading of ../settings/settings.json is successful
+2016-09-18 19:19:23,676 - parser - INFO - Validating ../settings/settings.json in <class 'parser.Settings_Parser'>
+2016-09-18 19:19:23,676 - parser - INFO - Validating 'active' in ../settings/settings.json
+2016-09-18 19:19:23,676 - parser - INFO - Validating 'logging' in ../settings/settings.json
+2016-09-18 19:19:23,678 - parser - INFO - Validating 'notification_email' in ../settings/settings.json
+2016-09-18 19:19:23,679 - parser - INFO - Validating 'refresh' in ../settings/settings.json
+2016-09-18 19:19:23,680 - parser - INFO - Validating dates
+2016-09-18 19:19:23,680 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2016-09-18 19:19:23,690 - parser - INFO - --Validating Weekday
+2016-09-18 19:19:23,691 - parser - INFO - ----Validating locations
+2016-09-18 19:19:23,691 - parser - WARNING - No 'locations' provided, default any location
+2016-09-18 19:19:23,691 - parser - INFO - ----Validating hours
+2016-09-18 19:19:23,692 - parser - INFO - ------Validating hour_range
+2016-09-18 19:19:23,692 - parser - INFO - ------Validating actions
+2016-09-18 19:19:23,692 - parser - INFO - ../settings/settings.json successfully validated in <class 'parser.Settings_Parser'>, no errors
+2016-09-18 19:19:39,837 - parser - INFO - Loading ../settings/settings.json into parser <class 'parser.Settings_Parser'>
+2016-09-18 19:19:39,837 - parser - INFO - Converting ../settings/settings.json to dict
+2016-09-18 19:19:39,837 - parser - INFO - Data conversion loading of ../settings/settings.json is successful
+2016-09-18 19:19:39,838 - parser - INFO - Validating ../settings/settings.json in <class 'parser.Settings_Parser'>
+2016-09-18 19:19:39,838 - parser - INFO - Validating 'active' in ../settings/settings.json
+2016-09-18 19:19:39,838 - parser - INFO - Validating 'logging' in ../settings/settings.json
+2016-09-18 19:19:39,838 - parser - INFO - Validating 'notification_email' in ../settings/settings.json
+2016-09-18 19:19:39,838 - parser - INFO - Validating 'refresh' in ../settings/settings.json
+2016-09-18 19:19:39,838 - parser - INFO - Validating dates
+2016-09-18 19:19:39,838 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2016-09-18 19:19:39,848 - parser - INFO - --Validating Weekday
+2016-09-18 19:19:39,848 - parser - INFO - ----Validating locations
+2016-09-18 19:19:39,848 - parser - WARNING - No 'locations' provided, default any location
+2016-09-18 19:19:39,848 - parser - INFO - ----Validating hours
+2016-09-18 19:19:39,849 - parser - INFO - ------Validating hour_range
+2016-09-18 19:19:39,849 - parser - INFO - ------Validating actions
+2016-09-18 19:19:39,849 - parser - INFO - ../settings/settings.json successfully validated in <class 'parser.Settings_Parser'>, no errors
+2016-09-18 19:20:05,623 - parser - INFO - Loading ../settings/settings.json into parser <class 'parser.Settings_Parser'>
+2016-09-18 19:20:05,624 - parser - INFO - Converting ../settings/settings.json to dict
+2016-09-18 19:20:05,624 - parser - INFO - Data conversion loading of ../settings/settings.json is successful
+2016-09-18 19:20:05,625 - parser - INFO - Validating ../settings/settings.json in <class 'parser.Settings_Parser'>
+2016-09-18 19:20:05,625 - parser - INFO - Validating 'active' in ../settings/settings.json
+2016-09-18 19:20:05,625 - parser - INFO - Validating 'logging' in ../settings/settings.json
+2016-09-18 19:20:05,625 - parser - INFO - Validating 'notification_email' in ../settings/settings.json
+2016-09-18 19:20:05,626 - parser - INFO - Validating 'refresh' in ../settings/settings.json
+2016-09-18 19:20:05,626 - parser - INFO - Validating dates
+2016-09-18 19:20:05,626 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2016-09-18 19:20:05,643 - parser - INFO - --Validating Weekday
+2016-09-18 19:20:05,644 - parser - INFO - ----Validating locations
+2016-09-18 19:20:05,644 - parser - WARNING - No 'locations' provided, default any location
+2016-09-18 19:20:05,644 - parser - INFO - ----Validating hours
+2016-09-18 19:20:05,644 - parser - INFO - ------Validating hour_range
+2016-09-18 19:20:05,644 - parser - INFO - ------Validating actions
+2016-09-18 19:20:05,644 - parser - INFO - ../settings/settings.json successfully validated in <class 'parser.Settings_Parser'>, no errors
+2016-09-18 19:20:05,645 - parser - INFO - Loading ../settings/creds.json into parser <class 'parser.Credentials_Parser'>
+2016-09-18 19:20:05,646 - parser - INFO - Converting ../settings/creds.json to dict
+2016-09-18 19:20:05,649 - parser - INFO - Data conversion loading of ../settings/creds.json is successful
+2016-09-18 19:20:05,649 - parser - INFO - Validating ../settings/creds.json in <class 'parser.Credentials_Parser'>
+2016-09-18 19:20:05,650 - parser - INFO - Validating ITS credentials
+2016-09-18 19:20:05,650 - parser - INFO - Validating username and password
+2016-09-18 19:20:05,650 - parser - INFO - Validating Outlook credentials
+2016-09-18 19:20:05,650 - parser - INFO - Validating username and password
+2016-09-18 19:20:05,650 - parser - INFO - ../settings/creds.json successfully validated in <class 'parser.Credentials_Parser'>, no errors
+2016-09-18 19:21:13,493 - parser - INFO - Loading ../settings/settings.json into parser <class 'parser.Settings_Parser'>
+2016-09-18 19:21:13,493 - parser - INFO - Converting ../settings/settings.json to dict
+2016-09-18 19:21:13,493 - parser - INFO - Data conversion loading of ../settings/settings.json is successful
+2016-09-18 19:21:13,494 - parser - INFO - Validating ../settings/settings.json in <class 'parser.Settings_Parser'>
+2016-09-18 19:21:13,494 - parser - INFO - Validating 'active' in ../settings/settings.json
+2016-09-18 19:21:13,494 - parser - INFO - Validating 'logging' in ../settings/settings.json
+2016-09-18 19:21:13,494 - parser - INFO - Validating 'notification_email' in ../settings/settings.json
+2016-09-18 19:21:13,494 - parser - INFO - Validating 'refresh' in ../settings/settings.json
+2016-09-18 19:21:13,494 - parser - INFO - Validating dates
+2016-09-18 19:21:13,494 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2016-09-18 19:21:13,507 - parser - INFO - --Validating Weekday
+2016-09-18 19:21:13,508 - parser - INFO - ----Validating locations
+2016-09-18 19:21:13,508 - parser - WARNING - No 'locations' provided, default any location
+2016-09-18 19:21:13,508 - parser - INFO - ----Validating hours
+2016-09-18 19:21:13,508 - parser - INFO - ------Validating hour_range
+2016-09-18 19:21:13,508 - parser - INFO - ------Validating actions
+2016-09-18 19:21:13,508 - parser - INFO - ../settings/settings.json successfully validated in <class 'parser.Settings_Parser'>, no errors
+2016-09-18 19:21:13,509 - parser - INFO - Loading ../settings/creds.json into parser <class 'parser.Credentials_Parser'>
+2016-09-18 19:21:13,509 - parser - INFO - Converting ../settings/creds.json to dict
+2016-09-18 19:21:13,509 - parser - INFO - Data conversion loading of ../settings/creds.json is successful
+2016-09-18 19:21:13,510 - parser - INFO - Validating ../settings/creds.json in <class 'parser.Credentials_Parser'>
+2016-09-18 19:21:13,510 - parser - INFO - Validating ITS credentials
+2016-09-18 19:21:13,510 - parser - INFO - Validating username and password
+2016-09-18 19:21:13,510 - parser - INFO - Validating Outlook credentials
+2016-09-18 19:21:13,510 - parser - INFO - Validating username and password
+2016-09-18 19:21:13,510 - parser - INFO - ../settings/creds.json successfully validated in <class 'parser.Credentials_Parser'>, no errors
+2016-09-18 19:21:25,410 - parser - INFO - Loading ../settings/settings.json into parser <class 'parser.Settings_Parser'>
+2016-09-18 19:21:25,410 - parser - INFO - Converting ../settings/settings.json to dict
+2016-09-18 19:21:25,410 - parser - INFO - Data conversion loading of ../settings/settings.json is successful
+2016-09-18 19:21:25,411 - parser - INFO - Validating ../settings/settings.json in <class 'parser.Settings_Parser'>
+2016-09-18 19:21:25,411 - parser - INFO - Validating 'active' in ../settings/settings.json
+2016-09-18 19:21:25,411 - parser - INFO - Validating 'logging' in ../settings/settings.json
+2016-09-18 19:21:25,411 - parser - INFO - Validating 'notification_email' in ../settings/settings.json
+2016-09-18 19:21:25,411 - parser - INFO - Validating 'refresh' in ../settings/settings.json
+2016-09-18 19:21:25,411 - parser - INFO - Validating dates
+2016-09-18 19:21:25,411 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2016-09-18 19:21:25,422 - parser - INFO - --Validating Weekday
+2016-09-18 19:21:25,423 - parser - INFO - ----Validating locations
+2016-09-18 19:21:25,423 - parser - WARNING - No 'locations' provided, default any location
+2016-09-18 19:21:25,423 - parser - INFO - ----Validating hours
+2016-09-18 19:21:25,423 - parser - INFO - ------Validating hour_range
+2016-09-18 19:21:25,423 - parser - INFO - ------Validating actions
+2016-09-18 19:21:25,423 - parser - INFO - ../settings/settings.json successfully validated in <class 'parser.Settings_Parser'>, no errors
+2016-09-18 19:21:25,424 - parser - INFO - Loading ../settings/creds.json into parser <class 'parser.Credentials_Parser'>
+2016-09-18 19:21:25,424 - parser - INFO - Converting ../settings/creds.json to dict
+2016-09-18 19:21:25,424 - parser - INFO - Data conversion loading of ../settings/creds.json is successful
+2016-09-18 19:21:25,425 - parser - INFO - Validating ../settings/creds.json in <class 'parser.Credentials_Parser'>
+2016-09-18 19:21:25,425 - parser - INFO - Validating ITS credentials
+2016-09-18 19:21:25,425 - parser - INFO - Validating username and password
+2016-09-18 19:21:25,425 - parser - INFO - Validating Outlook credentials
+2016-09-18 19:21:25,425 - parser - INFO - Validating username and password
+2016-09-18 19:21:25,425 - parser - INFO - ../settings/creds.json successfully validated in <class 'parser.Credentials_Parser'>, no errors
+2016-09-18 19:23:09,970 - parser - INFO - Loading ../settings/settings.json into parser <class 'parser.Settings_Parser'>
+2016-09-18 19:23:09,970 - parser - INFO - Converting ../settings/settings.json to dict
+2016-09-18 19:23:09,971 - parser - INFO - Data conversion loading of ../settings/settings.json is successful
+2016-09-18 19:23:09,971 - parser - INFO - Validating ../settings/settings.json in <class 'parser.Settings_Parser'>
+2016-09-18 19:23:09,971 - parser - INFO - Validating 'active' in ../settings/settings.json
+2016-09-18 19:23:09,971 - parser - INFO - Validating 'logging' in ../settings/settings.json
+2016-09-18 19:23:09,971 - parser - INFO - Validating 'notification_email' in ../settings/settings.json
+2016-09-18 19:23:09,971 - parser - INFO - Validating 'refresh' in ../settings/settings.json
+2016-09-18 19:23:09,971 - parser - INFO - Validating dates
+2016-09-18 19:23:09,972 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2016-09-18 19:23:09,982 - parser - INFO - --Validating Weekday
+2016-09-18 19:23:09,982 - parser - INFO - ----Validating locations
+2016-09-18 19:23:09,983 - parser - WARNING - No 'locations' provided, default any location
+2016-09-18 19:23:09,983 - parser - INFO - ----Validating hours
+2016-09-18 19:23:09,983 - parser - INFO - ------Validating hour_range
+2016-09-18 19:23:09,983 - parser - INFO - ------Validating actions
+2016-09-18 19:23:09,983 - parser - INFO - ../settings/settings.json successfully validated in <class 'parser.Settings_Parser'>, no errors
+2016-09-18 19:23:09,983 - parser - INFO - Loading ../settings/creds.json into parser <class 'parser.Credentials_Parser'>
+2016-09-18 19:23:09,984 - parser - INFO - Converting ../settings/creds.json to dict
+2016-09-18 19:23:09,984 - parser - INFO - Data conversion loading of ../settings/creds.json is successful
+2016-09-18 19:23:09,984 - parser - INFO - Validating ../settings/creds.json in <class 'parser.Credentials_Parser'>
+2016-09-18 19:23:09,984 - parser - INFO - Validating ITS credentials
+2016-09-18 19:23:09,984 - parser - INFO - Validating username and password
+2016-09-18 19:23:09,984 - parser - INFO - Validating Outlook credentials
+2016-09-18 19:23:09,984 - parser - INFO - Validating username and password
+2016-09-18 19:23:09,985 - parser - INFO - ../settings/creds.json successfully validated in <class 'parser.Credentials_Parser'>, no errors
+2016-09-18 19:23:57,789 - parser - INFO - Loading ../settings/settings.json into parser <class 'parser.Settings_Parser'>
+2016-09-18 19:23:57,790 - parser - INFO - Converting ../settings/settings.json to dict
+2016-09-18 19:23:57,790 - parser - INFO - Data conversion loading of ../settings/settings.json is successful
+2016-09-18 19:23:57,791 - parser - INFO - Validating ../settings/settings.json in <class 'parser.Settings_Parser'>
+2016-09-18 19:23:57,791 - parser - INFO - Validating 'active' in ../settings/settings.json
+2016-09-18 19:23:57,791 - parser - INFO - Validating 'logging' in ../settings/settings.json
+2016-09-18 19:23:57,791 - parser - INFO - Validating 'notification_email' in ../settings/settings.json
+2016-09-18 19:23:57,791 - parser - INFO - Validating 'refresh' in ../settings/settings.json
+2016-09-18 19:23:57,792 - parser - INFO - Validating dates
+2016-09-18 19:23:57,792 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2016-09-18 19:23:57,802 - parser - INFO - --Validating Weekday
+2016-09-18 19:23:57,802 - parser - INFO - ----Validating locations
+2016-09-18 19:23:57,803 - parser - WARNING - No 'locations' provided, default any location
+2016-09-18 19:23:57,803 - parser - INFO - ----Validating hours
+2016-09-18 19:23:57,803 - parser - INFO - ------Validating hour_range
+2016-09-18 19:23:57,803 - parser - INFO - ------Validating actions
+2016-09-18 19:23:57,803 - parser - INFO - ../settings/settings.json successfully validated in <class 'parser.Settings_Parser'>, no errors
+2016-09-18 19:23:57,804 - parser - INFO - Loading ../settings/creds.json into parser <class 'parser.Credentials_Parser'>
+2016-09-18 19:23:57,804 - parser - INFO - Converting ../settings/creds.json to dict
+2016-09-18 19:23:57,804 - parser - INFO - Data conversion loading of ../settings/creds.json is successful
+2016-09-18 19:23:57,805 - parser - INFO - Validating ../settings/creds.json in <class 'parser.Credentials_Parser'>
+2016-09-18 19:23:57,805 - parser - INFO - Validating ITS credentials
+2016-09-18 19:23:57,805 - parser - INFO - Validating username and password
+2016-09-18 19:23:57,805 - parser - INFO - Validating Outlook credentials
+2016-09-18 19:23:57,805 - parser - INFO - Validating username and password
+2016-09-18 19:23:57,806 - parser - INFO - ../settings/creds.json successfully validated in <class 'parser.Credentials_Parser'>, no errors
