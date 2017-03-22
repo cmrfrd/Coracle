@@ -1,2 +1,0 @@
-from Coracle import Coracle
-from constants import *
