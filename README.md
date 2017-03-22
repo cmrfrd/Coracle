@@ -42,7 +42,7 @@ Edit ```settings.json``` and modify the settings accordingly
 
 The general syntax for a *date-range* setting looks as follows
 
-```json
+```
 <date-range ex. 9/30/16-10/31/16>:{
     <day ex. "Monday">:{
 	    "locations":[<location1 ex. SciLib>, <location2>, ...]
