@@ -50,7 +50,7 @@ args=(sys.stdout,)
 class=FileHandler
 level=ERROR
 formatter=advanced_formatter
-args=("Coracle/log/Coracle_Main.log", "a")
+args=("log/Coracle_Main.log", "a")
 
 [handler_simple_handler]
 class=StreamHandler
@@ -62,31 +62,31 @@ args=(sys.stdout,)
 class=FileHandler
 level=INFO
 formatter=advanced_formatter
-args=("Coracle/log/ITSdriver.log", "a")
+args=("log/ITSdriver.log", "a")
 
 [handler_outlookclient_handler]
 class=FileHandler
 level=INFO
 formatter=advanced_formatter
-args=("Coracle/log/outlookclient.log", "a")
+args=("log/outlookclient.log", "a")
 
 [handler_parser_handler]
 class=FileHandler
 level=INFO
 formatter=advanced_formatter
-args=("Coracle/log/parser.log", "a")
+args=("log/parser.log", "a")
 
 [handler_Coracle_handler]
 class=FileHandler
 level=ERROR
 formatter=advanced_formatter
-args=("Coracle/log/Coracle.log", "a")
+args=("log/Coracle.log", "a")
 
 [handler_historymanager_handler]
 class=FileHandler
 level=INFO
 formatter=advanced_formatter
-args=("Coracle/log/historymanager.log", "a")
+args=("log/historymanager.log", "a")
 
 [handler_empty_handler]
 class=NullHandler

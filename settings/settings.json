@@ -1,6 +1,6 @@
 {
 	"active":3600,
-	"advanced_logging":false,
+	"advanced_logging":true,
 	"notification_email":"acomerford@albany.edu",
 	"refresh":2,
 	"dates":{

@@ -1,5 +1,5 @@
 from selenium import webdriver
-from time import time, sleep
+from time import sleep
 import argparse
 
 import imaplib
@@ -14,7 +14,7 @@ import logging
 import logging.config
 
 from constants import *
-from parse import Settings_Parser, Credentials_Parser, Init_Parser
+from parser import Settings_Parser, Credentials_Parser, Init_Parser
 from outlookclient import outlookclient
 from ITSdriver import ITSdriver
 
@@ -86,7 +86,7 @@ class Coracle(object):
 		if self.advanced_logging:
 			self.simple_logger.handlers = [h for h in self.simple_logger.handlers if type(h) != logging.StreamHandler]
 		else:
-			self.coracle_logger.handlers = [h for h in self.coracle_logger.handlers if type(h) != logging.StreamHandler]
+			self.coracle_logger.handlers = [h for h in self.parser_logger.handlers if type(h) != logging.StreamHandler]
 
 		self.coracle_logger.info("Logging initialization test")
 		self.simple_logger.info("LOGGING INITIALIZATION TEST")
@@ -106,23 +106,5 @@ class Coracle(object):
 
 		self.init_clients()
 
-		starttime = time()
-		is_active = lambda: (time() - starttime) < settings["active"]
-		is_in_range = lambda i,r:r[0] <= i <= r[1] if len(r)==2 else True
-
-		while is_active():
-			for ITS_email in self.outlookcl.get_ITS_email_info(True):
-				# if email is within date range
-				for date_key, date in settings["dates"].iteritems():
-					if is_in_range(ITS_email["start_date"], date["range"]) and is_in_range(ITS_email["end_date"], date["range"]):
-						for weekday_key, weekday in date.iteritems():
-							if ITS_email["weekday"] in WEEKDAYS or ITS_email["weekday"] in WEEKDAYS_INITIALS or ITS_email["weekday"] == "all":
-								for hour, actions in weekday["hours"].iteritems():
-									if "_range" in hour:continue
-									if is_in_range(ITS_email["start_time"], weekday[hour+"_range"]) and is_in_range(ITS_email["end_time"], weekday[hour+"_range"]):
-										self.ITSdriver.grab_shift(ITS_email)
-							else:
-								continue
-					else:
-						continue
-			sleep(settings["refresh"])
+		
+		

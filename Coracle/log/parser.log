@@ -1047,3 +1047,200 @@
 2016-09-18 19:23:57,805 - parser - INFO - Validating Outlook credentials
 2016-09-18 19:23:57,805 - parser - INFO - Validating username and password
 2016-09-18 19:23:57,806 - parser - INFO - ../settings/creds.json successfully validated in <class 'parser.Credentials_Parser'>, no errors
+2017-03-22 13:09:55,045 - parser - INFO - Loading settings/settings.json into parser <class 'Coracle.parse.file_parsers.Init_Parser'>
+2017-03-22 13:09:55,048 - parser - INFO - Converting settings/settings.json to dict
+2017-03-22 13:11:18,818 - parser - INFO - Loading ../../settings/settings.json into parser <class 'Coracle.parse.file_parsers.Init_Parser'>
+2017-03-22 13:11:18,821 - parser - INFO - Converting ../../settings/settings.json to dict
+2017-03-22 13:11:18,822 - parser - INFO - Data conversion loading of ../../settings/settings.json is successful
+2017-03-22 13:26:33,810 - parser - INFO - Loading ../../settings/settings.json into parser <class 'Coracle.parse.file_parsers.Init_Parser'>
+2017-03-22 13:26:33,814 - parser - INFO - Converting ../../settings/settings.json to dict
+2017-03-22 13:26:33,814 - parser - INFO - Data conversion loading of ../../settings/settings.json is successful
+2017-03-22 13:28:30,285 - parser - INFO - Loading ../../settings/settings.json into parser <class 'Coracle.parse.file_parsers.Init_Parser'>
+2017-03-22 13:28:30,285 - parser - INFO - Converting ../../settings/settings.json to dict
+2017-03-22 13:28:30,285 - parser - INFO - Data conversion loading of ../../settings/settings.json is successful
+2017-03-22 13:30:06,344 - parser - INFO - Loading ../../settings/settings.json into parser <class 'Coracle.parse.file_parsers.Init_Parser'>
+2017-03-22 13:30:06,344 - parser - INFO - Converting ../../settings/settings.json to dict
+2017-03-22 13:30:06,345 - parser - INFO - Data conversion loading of ../../settings/settings.json is successful
+2017-03-22 13:33:05,132 - parser - INFO - Loading ../../settings/settings.json into parser <class 'Coracle.parse.file_parsers.Init_Parser'>
+2017-03-22 13:33:05,133 - parser - INFO - Converting ../../settings/settings.json to dict
+2017-03-22 13:33:05,133 - parser - INFO - Data conversion loading of ../../settings/settings.json is successful
+2017-03-22 13:33:40,738 - parser - INFO - Loading ../../settings/settings.json into parser <class 'Coracle.parse.file_parsers.Init_Parser'>
+2017-03-22 13:33:40,739 - parser - INFO - Converting ../../settings/settings.json to dict
+2017-03-22 13:33:40,739 - parser - INFO - Data conversion loading of ../../settings/settings.json is successful
+2017-03-22 13:33:40,740 - parser - INFO - Loading ../../settings/settings.json into parser <class 'Coracle.parse.file_parsers.Settings_Parser'>
+2017-03-22 13:33:40,740 - parser - INFO - Converting ../../settings/settings.json to dict
+2017-03-22 13:33:40,740 - parser - INFO - Data conversion loading of ../../settings/settings.json is successful
+2017-03-22 13:33:40,741 - parser - INFO - Loading ../../settings/creds.json into parser <class 'Coracle.parse.file_parsers.Credentials_Parser'>
+2017-03-22 13:33:40,741 - parser - INFO - Converting ../../settings/creds.json to dict
+2017-03-22 13:33:40,744 - parser - INFO - Data conversion loading of ../../settings/creds.json is successful
+2017-03-22 13:33:40,744 - parser - INFO - Loading ../../settings/settings.json into parser <class 'Coracle.parse.file_parsers.Settings_Parser'>
+2017-03-22 13:33:40,744 - parser - INFO - Converting ../../settings/settings.json to dict
+2017-03-22 13:33:40,744 - parser - INFO - Data conversion loading of ../../settings/settings.json is successful
+2017-03-22 13:33:40,745 - parser - INFO - Validating ../../settings/settings.json in <class 'Coracle.parse.file_parsers.Settings_Parser'>
+2017-03-22 13:33:40,745 - parser - INFO - Validating 'active' in ../../settings/settings.json
+2017-03-22 13:33:40,745 - parser - INFO - Validating 'logging' in ../../settings/settings.json
+2017-03-22 13:33:40,745 - parser - INFO - Validating 'notification_email' in ../../settings/settings.json
+2017-03-22 13:33:40,745 - parser - INFO - Validating 'refresh' in ../../settings/settings.json
+2017-03-22 13:33:40,746 - parser - INFO - Validating dates
+2017-03-22 13:33:40,747 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2017-03-22 13:33:40,757 - parser - INFO - --Validating Weekday
+2017-03-22 13:33:40,758 - parser - INFO - ----Validating locations
+2017-03-22 13:33:40,758 - parser - WARNING - No 'locations' provided, default any location
+2017-03-22 13:33:40,759 - parser - INFO - ----Validating hours
+2017-03-22 13:33:40,759 - parser - INFO - ------Validating hour_range
+2017-03-22 13:33:40,759 - parser - INFO - ------Validating actions
+2017-03-22 13:36:16,147 - parser - INFO - Loading ../../settings/settings.json into parser <class 'Coracle.parse.file_parsers.Init_Parser'>
+2017-03-22 13:36:16,147 - parser - INFO - Converting ../../settings/settings.json to dict
+2017-03-22 13:36:16,147 - parser - INFO - Data conversion loading of ../../settings/settings.json is successful
+2017-03-22 13:36:16,148 - parser - INFO - Loading ../../settings/settings.json into parser <class 'Coracle.parse.file_parsers.Settings_Parser'>
+2017-03-22 13:36:16,149 - parser - INFO - Converting ../../settings/settings.json to dict
+2017-03-22 13:36:16,149 - parser - INFO - Data conversion loading of ../../settings/settings.json is successful
+2017-03-22 13:36:16,150 - parser - INFO - Loading ../../settings/creds.json into parser <class 'Coracle.parse.file_parsers.Credentials_Parser'>
+2017-03-22 13:36:16,150 - parser - INFO - Converting ../../settings/creds.json to dict
+2017-03-22 13:36:16,150 - parser - INFO - Data conversion loading of ../../settings/creds.json is successful
+2017-03-22 13:36:16,151 - parser - INFO - Loading ../../settings/settings.json into parser <class 'Coracle.parse.file_parsers.Settings_Parser'>
+2017-03-22 13:36:16,151 - parser - INFO - Converting ../../settings/settings.json to dict
+2017-03-22 13:36:16,152 - parser - INFO - Data conversion loading of ../../settings/settings.json is successful
+2017-03-22 13:36:16,152 - parser - INFO - Validating ../../settings/settings.json in <class 'Coracle.parse.file_parsers.Settings_Parser'>
+2017-03-22 13:36:16,152 - parser - INFO - Validating 'active' in ../../settings/settings.json
+2017-03-22 13:36:16,153 - parser - INFO - Validating 'logging' in ../../settings/settings.json
+2017-03-22 13:36:16,153 - parser - INFO - Validating 'notification_email' in ../../settings/settings.json
+2017-03-22 13:36:16,153 - parser - INFO - Validating 'refresh' in ../../settings/settings.json
+2017-03-22 13:36:16,153 - parser - INFO - Validating dates
+2017-03-22 13:36:16,154 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2017-03-22 13:36:16,160 - parser - INFO - --Validating Weekday
+2017-03-22 13:36:16,161 - parser - INFO - ----Validating locations
+2017-03-22 13:36:16,161 - parser - WARNING - No 'locations' provided, default any location
+2017-03-22 13:36:16,161 - parser - INFO - ----Validating hours
+2017-03-22 13:36:16,161 - parser - INFO - ------Validating hour_range
+2017-03-22 13:36:16,162 - parser - INFO - ------Validating actions
+2017-03-22 13:39:06,530 - parser - INFO - Loading ../../settings/settings.json into parser <class 'Coracle.parse.file_parsers.Init_Parser'>
+2017-03-22 13:39:06,531 - parser - INFO - Converting ../../settings/settings.json to dict
+2017-03-22 13:39:06,531 - parser - INFO - Data conversion loading of ../../settings/settings.json is successful
+2017-03-22 13:39:06,532 - parser - INFO - Loading ../../settings/settings.json into parser <class 'Coracle.parse.file_parsers.Settings_Parser'>
+2017-03-22 13:39:06,532 - parser - INFO - Converting ../../settings/settings.json to dict
+2017-03-22 13:39:06,532 - parser - INFO - Data conversion loading of ../../settings/settings.json is successful
+2017-03-22 13:39:06,533 - parser - INFO - Loading ../../settings/creds.json into parser <class 'Coracle.parse.file_parsers.Credentials_Parser'>
+2017-03-22 13:39:06,533 - parser - INFO - Converting ../../settings/creds.json to dict
+2017-03-22 13:39:06,533 - parser - INFO - Data conversion loading of ../../settings/creds.json is successful
+2017-03-22 13:39:06,534 - parser - INFO - Loading ../../settings/settings.json into parser <class 'Coracle.parse.file_parsers.Settings_Parser'>
+2017-03-22 13:39:06,534 - parser - INFO - Converting ../../settings/settings.json to dict
+2017-03-22 13:39:06,534 - parser - INFO - Data conversion loading of ../../settings/settings.json is successful
+2017-03-22 13:39:06,534 - parser - INFO - Validating ../../settings/settings.json in <class 'Coracle.parse.file_parsers.Settings_Parser'>
+2017-03-22 13:39:06,535 - parser - INFO - Validating 'active' in ../../settings/settings.json
+2017-03-22 13:39:06,535 - parser - INFO - Validating 'logging' in ../../settings/settings.json
+2017-03-22 13:39:06,535 - parser - INFO - Validating 'notification_email' in ../../settings/settings.json
+2017-03-22 13:39:06,535 - parser - INFO - Validating 'refresh' in ../../settings/settings.json
+2017-03-22 13:39:06,535 - parser - INFO - Validating dates
+2017-03-22 13:39:06,536 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2017-03-22 13:39:06,545 - parser - INFO - --Validating Weekday
+2017-03-22 13:39:06,546 - parser - INFO - ----Validating locations
+2017-03-22 13:39:06,546 - parser - WARNING - No 'locations' provided, default any location
+2017-03-22 13:39:06,546 - parser - INFO - ----Validating hours
+2017-03-22 13:39:06,546 - parser - INFO - ------Validating hour_range
+2017-03-22 13:39:06,546 - parser - INFO - ------Validating actions
+2017-03-22 13:40:54,415 - parser - INFO - Loading ../../settings/settings.json into parser <class 'Coracle.parse.file_parsers.Init_Parser'>
+2017-03-22 13:40:54,415 - parser - INFO - Converting ../../settings/settings.json to dict
+2017-03-22 13:40:54,415 - parser - INFO - Data conversion loading of ../../settings/settings.json is successful
+2017-03-22 13:40:54,416 - parser - INFO - Loading ../../settings/settings.json into parser <class 'Coracle.parse.file_parsers.Settings_Parser'>
+2017-03-22 13:40:54,416 - parser - INFO - Converting ../../settings/settings.json to dict
+2017-03-22 13:40:54,417 - parser - INFO - Data conversion loading of ../../settings/settings.json is successful
+2017-03-22 13:40:54,417 - parser - INFO - Loading ../../settings/creds.json into parser <class 'Coracle.parse.file_parsers.Credentials_Parser'>
+2017-03-22 13:40:54,417 - parser - INFO - Converting ../../settings/creds.json to dict
+2017-03-22 13:40:54,418 - parser - INFO - Data conversion loading of ../../settings/creds.json is successful
+2017-03-22 13:40:54,418 - parser - INFO - Loading ../../settings/settings.json into parser <class 'Coracle.parse.file_parsers.Settings_Parser'>
+2017-03-22 13:40:54,418 - parser - INFO - Converting ../../settings/settings.json to dict
+2017-03-22 13:40:54,419 - parser - INFO - Data conversion loading of ../../settings/settings.json is successful
+2017-03-22 13:40:54,419 - parser - INFO - Validating ../../settings/settings.json in <class 'Coracle.parse.file_parsers.Settings_Parser'>
+2017-03-22 13:40:54,419 - parser - INFO - Validating 'active' in ../../settings/settings.json
+2017-03-22 13:40:54,419 - parser - INFO - Validating 'logging' in ../../settings/settings.json
+2017-03-22 13:40:54,419 - parser - INFO - Validating 'notification_email' in ../../settings/settings.json
+2017-03-22 13:40:54,419 - parser - INFO - Validating 'refresh' in ../../settings/settings.json
+2017-03-22 13:40:54,420 - parser - INFO - Validating dates
+2017-03-22 13:40:54,421 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2017-03-22 13:40:54,427 - parser - INFO - --Validating Weekday
+2017-03-22 13:40:54,427 - parser - INFO - ----Validating locations
+2017-03-22 13:40:54,427 - parser - WARNING - No 'locations' provided, default any location
+2017-03-22 13:40:54,427 - parser - INFO - ----Validating hours
+2017-03-22 13:40:54,428 - parser - INFO - ------Validating hour_range
+2017-03-22 13:40:54,429 - parser - INFO - ------Validating actions
+2017-03-22 13:40:54,429 - parser - INFO - ../../settings/settings.json successfully validated in <class 'Coracle.parse.file_parsers.Settings_Parser'>, no errors
+2017-03-22 13:40:54,429 - parser - INFO - Loading ../../settings/creds.json into parser <class 'Coracle.parse.file_parsers.Credentials_Parser'>
+2017-03-22 13:40:54,430 - parser - INFO - Converting ../../settings/creds.json to dict
+2017-03-22 13:40:54,431 - parser - INFO - Data conversion loading of ../../settings/creds.json is successful
+2017-03-22 13:40:54,432 - parser - INFO - Validating ../../settings/creds.json in <class 'Coracle.parse.file_parsers.Credentials_Parser'>
+2017-03-22 13:40:54,433 - parser - INFO - Validating ITS credentials
+2017-03-22 13:40:54,434 - parser - INFO - Validating username and password
+2017-03-22 13:40:54,435 - parser - INFO - Validating Outlook credentials
+2017-03-22 13:40:54,435 - parser - INFO - Validating username and password
+2017-03-22 13:40:54,436 - parser - INFO - ../../settings/creds.json successfully validated in <class 'Coracle.parse.file_parsers.Credentials_Parser'>, no errors
+2017-03-22 13:41:38,030 - parser - INFO - Loading ../../settings/settings.json into parser <class 'Coracle.parse.file_parsers.Init_Parser'>
+2017-03-22 13:41:38,031 - parser - INFO - Converting ../../settings/settings.json to dict
+2017-03-22 13:41:38,032 - parser - INFO - Data conversion loading of ../../settings/settings.json is successful
+2017-03-22 13:41:38,033 - parser - INFO - Loading ../../settings/settings.json into parser <class 'Coracle.parse.file_parsers.Settings_Parser'>
+2017-03-22 13:41:38,033 - parser - INFO - Converting ../../settings/settings.json to dict
+2017-03-22 13:41:38,033 - parser - INFO - Data conversion loading of ../../settings/settings.json is successful
+2017-03-22 13:41:38,034 - parser - INFO - Loading ../../settings/creds.json into parser <class 'Coracle.parse.file_parsers.Credentials_Parser'>
+2017-03-22 13:41:38,034 - parser - INFO - Converting ../../settings/creds.json to dict
+2017-03-22 13:41:38,034 - parser - INFO - Data conversion loading of ../../settings/creds.json is successful
+2017-03-22 13:41:38,034 - parser - INFO - Loading ../../settings/settings.json into parser <class 'Coracle.parse.file_parsers.Settings_Parser'>
+2017-03-22 13:41:38,035 - parser - INFO - Converting ../../settings/settings.json to dict
+2017-03-22 13:41:38,035 - parser - INFO - Data conversion loading of ../../settings/settings.json is successful
+2017-03-22 13:41:38,035 - parser - INFO - Validating ../../settings/settings.json in <class 'Coracle.parse.file_parsers.Settings_Parser'>
+2017-03-22 13:41:38,035 - parser - INFO - Validating 'active' in ../../settings/settings.json
+2017-03-22 13:41:38,036 - parser - INFO - Validating 'logging' in ../../settings/settings.json
+2017-03-22 13:41:38,036 - parser - INFO - Validating 'notification_email' in ../../settings/settings.json
+2017-03-22 13:41:38,036 - parser - INFO - Validating 'refresh' in ../../settings/settings.json
+2017-03-22 13:41:38,036 - parser - INFO - Validating dates
+2017-03-22 13:41:38,037 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2017-03-22 13:41:38,043 - parser - INFO - --Validating Weekday
+2017-03-22 13:41:38,044 - parser - INFO - ----Validating locations
+2017-03-22 13:41:38,044 - parser - WARNING - No 'locations' provided, default any location
+2017-03-22 13:41:38,044 - parser - INFO - ----Validating hours
+2017-03-22 13:41:38,045 - parser - INFO - ------Validating hour_range
+2017-03-22 13:41:38,045 - parser - INFO - ------Validating actions
+2017-03-22 13:41:38,045 - parser - INFO - ../../settings/settings.json successfully validated in <class 'Coracle.parse.file_parsers.Settings_Parser'>, no errors
+2017-03-22 13:41:38,045 - parser - INFO - Loading ../../settings/creds.json into parser <class 'Coracle.parse.file_parsers.Credentials_Parser'>
+2017-03-22 13:41:38,046 - parser - INFO - Converting ../../settings/creds.json to dict
+2017-03-22 13:41:38,046 - parser - INFO - Data conversion loading of ../../settings/creds.json is successful
+2017-03-22 13:41:38,046 - parser - INFO - Validating ../../settings/creds.json in <class 'Coracle.parse.file_parsers.Credentials_Parser'>
+2017-03-22 13:41:38,047 - parser - INFO - Validating ITS credentials
+2017-03-22 13:41:38,047 - parser - INFO - Validating username and password
+2017-03-22 13:41:38,047 - parser - INFO - Validating Outlook credentials
+2017-03-22 13:41:38,047 - parser - INFO - Validating username and password
+2017-03-22 13:41:38,048 - parser - INFO - ../../settings/creds.json successfully validated in <class 'Coracle.parse.file_parsers.Credentials_Parser'>, no errors
+2017-03-22 13:42:19,282 - parser - INFO - Loading ../../settings/settings.json into parser <class 'Coracle.parse.file_parsers.Init_Parser'>
+2017-03-22 13:42:19,282 - parser - INFO - Converting ../../settings/settings.json to dict
+2017-03-22 13:42:19,283 - parser - INFO - Data conversion loading of ../../settings/settings.json is successful
+2017-03-22 13:42:19,284 - parser - INFO - Loading ../../settings/settings.json into parser <class 'Coracle.parse.file_parsers.Settings_Parser'>
+2017-03-22 13:42:19,284 - parser - INFO - Converting ../../settings/settings.json to dict
+2017-03-22 13:42:19,285 - parser - INFO - Data conversion loading of ../../settings/settings.json is successful
+2017-03-22 13:42:19,286 - parser - INFO - Loading ../../settings/creds.json into parser <class 'Coracle.parse.file_parsers.Credentials_Parser'>
+2017-03-22 13:42:19,286 - parser - INFO - Converting ../../settings/creds.json to dict
+2017-03-22 13:42:19,286 - parser - INFO - Data conversion loading of ../../settings/creds.json is successful
+2017-03-22 13:42:19,287 - parser - INFO - Loading ../../settings/settings.json into parser <class 'Coracle.parse.file_parsers.Settings_Parser'>
+2017-03-22 13:42:19,287 - parser - INFO - Converting ../../settings/settings.json to dict
+2017-03-22 13:42:19,288 - parser - INFO - Data conversion loading of ../../settings/settings.json is successful
+2017-03-22 13:42:19,288 - parser - INFO - Validating ../../settings/settings.json in <class 'Coracle.parse.file_parsers.Settings_Parser'>
+2017-03-22 13:42:19,289 - parser - INFO - Validating 'active' in ../../settings/settings.json
+2017-03-22 13:42:19,289 - parser - INFO - Validating 'logging' in ../../settings/settings.json
+2017-03-22 13:42:19,289 - parser - INFO - Validating 'notification_email' in ../../settings/settings.json
+2017-03-22 13:42:19,290 - parser - INFO - Validating 'refresh' in ../../settings/settings.json
+2017-03-22 13:42:19,290 - parser - INFO - Validating dates
+2017-03-22 13:42:19,291 - parser - INFO - --Validating date_range 9/30/16-10/31/16
+2017-03-22 13:42:19,303 - parser - INFO - --Validating Weekday
+2017-03-22 13:42:19,304 - parser - INFO - ----Validating locations
+2017-03-22 13:42:19,305 - parser - WARNING - No 'locations' provided, default any location
+2017-03-22 13:42:19,305 - parser - INFO - ----Validating hours
+2017-03-22 13:42:19,306 - parser - INFO - ------Validating hour_range
+2017-03-22 13:42:19,307 - parser - INFO - ------Validating actions
+2017-03-22 13:42:19,308 - parser - INFO - ../../settings/settings.json successfully validated in <class 'Coracle.parse.file_parsers.Settings_Parser'>, no errors
+2017-03-22 13:42:19,308 - parser - INFO - Loading ../../settings/creds.json into parser <class 'Coracle.parse.file_parsers.Credentials_Parser'>
+2017-03-22 13:42:19,309 - parser - INFO - Converting ../../settings/creds.json to dict
+2017-03-22 13:42:19,310 - parser - INFO - Data conversion loading of ../../settings/creds.json is successful
+2017-03-22 13:42:19,313 - parser - INFO - Validating ../../settings/creds.json in <class 'Coracle.parse.file_parsers.Credentials_Parser'>
+2017-03-22 13:42:19,314 - parser - INFO - Validating ITS credentials
+2017-03-22 13:42:19,314 - parser - INFO - Validating username and password
+2017-03-22 13:42:19,315 - parser - INFO - Validating Outlook credentials
+2017-03-22 13:42:19,315 - parser - INFO - Validating username and password
+2017-03-22 13:42:19,315 - parser - INFO - ../../settings/creds.json successfully validated in <class 'Coracle.parse.file_parsers.Credentials_Parser'>, no errors

@@ -1,7 +1,7 @@
 import datetime
 from string import printable
 
-from ..constants import *
+from constants import *
 
 norm = lambda s:filter(lambda i:i in set(printable),str(s)).lower().replace(" ", "")
 normeq = lambda x, y: norm(x) == norm(y)

@@ -363,3 +363,6 @@
 2016-10-06 16:34:29,170 - ITSdriver - INFO - Checking prescence of shift
 2016-10-06 16:34:29,627 - ITSdriver - WARNING - Action TempTake cannot be performed on shift. Action not available
 2016-10-06 16:34:29,627 - ITSdriver - ERROR - Unable to grab shift because unable to select: ['TempTake'] ['Adam', 'Mrowca'] 1900-01-01 14:00:00
+2017-03-22 13:40:55,647 - ITSdriver - INFO - <class 'Coracle.ITSdriver.ITSdriver'> object initialized
+2017-03-22 13:41:39,142 - ITSdriver - INFO - <class 'Coracle.ITSdriver.ITSdriver'> object initialized
+2017-03-22 13:42:20,456 - ITSdriver - INFO - <class 'Coracle.ITSdriver.ITSdriver'> object initialized

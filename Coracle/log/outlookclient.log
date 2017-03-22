@@ -965,3 +965,11 @@
 2016-11-24 20:51:10,254 - outlookclient - INFO - Attempting login #1.
 2016-11-24 20:51:12,343 - outlookclient - INFO - Login Success to outlook.office365.com
 2016-11-24 20:51:12,343 - outlookclient - INFO - Attempting select Inbox
+2017-03-22 13:40:54,441 - outlookclient - INFO - <class 'Coracle.outlookclient.outlookclient'> object initialized
+2017-03-22 13:41:38,051 - outlookclient - INFO - <class 'Coracle.outlookclient.outlookclient'> object initialized
+2017-03-22 13:42:19,330 - outlookclient - INFO - <class 'Coracle.outlookclient.outlookclient'> object initialized
+2017-03-22 13:42:20,457 - outlookclient - ERROR - Attempting to get email info without login. Must login to proceed
+2017-03-22 13:42:22,462 - outlookclient - ERROR - Attempting to get email info without login. Must login to proceed
+2017-03-22 13:42:24,465 - outlookclient - ERROR - Attempting to get email info without login. Must login to proceed
+2017-03-22 13:42:26,468 - outlookclient - ERROR - Attempting to get email info without login. Must login to proceed
+2017-03-22 13:42:28,473 - outlookclient - ERROR - Attempting to get email info without login. Must login to proceed

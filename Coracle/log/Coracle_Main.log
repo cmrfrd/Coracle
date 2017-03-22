@@ -133,3 +133,8 @@
 2016-10-18 14:11:05,324 - outlookclient - ERROR - Attempt #2, login failure: LOGIN failed.
 2016-10-18 14:11:05,966 - outlookclient - ERROR - Attempt #3, login failure: LOGIN failed.
 2016-10-18 14:11:05,971 - outlookclient - ERROR - Attempting select without login. NO RESPONSE
+2017-03-22 13:42:20,457 - outlookclient - ERROR - Attempting to get email info without login. Must login to proceed
+2017-03-22 13:42:22,462 - outlookclient - ERROR - Attempting to get email info without login. Must login to proceed
+2017-03-22 13:42:24,465 - outlookclient - ERROR - Attempting to get email info without login. Must login to proceed
+2017-03-22 13:42:26,468 - outlookclient - ERROR - Attempting to get email info without login. Must login to proceed
+2017-03-22 13:42:28,473 - outlookclient - ERROR - Attempting to get email info without login. Must login to proceed

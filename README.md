@@ -1,41 +1,44 @@
 Coracle 2.0
 ==============
-[Coracle](https://en.wikipedia.org/wiki/Coracle) is a lightweight modified PhantomJS/Outlook365 client designed to listen and monitor and automate the UAlbany ITS shift manager and all the events that take place.
+[Coracle](https://en.wikipedia.org/wiki/Coracle) is a lightweight modified PhantomJS/Outlook365 client designed to listen monitor and automate the UAlbany Information Technology Services (ITS) shift manager based on user configuration.
 
 -By Alexander Comerford
 
 ## About
 
-Grabbing and dropping shifts can be very annoying because the ITS website is an old system and all the other employees are much more adamant and motivated to check the site constantly to get shifts.
+Instead of visiting the ITS website only to find an unavailable shift or an inconvenient one, Coracle constantly monitors for dropped shifts and grabs the most desirable for the user.
 
-Coracle works by having an Outlook365 client listening for emails from the UAlbany server specifically being sent from ITS about shifts. If a new email is recieved, coracle will check its settings set by the user to see if it should temp take/temp drop the shift. If it wants to take the shift, coracle will go to the ITS website and take action and temp/perm take the shift. 
+Coracle works with 2 main components. 
+
+1. Leveraging the IMAP python client, and listening for emails from the UAlbany mail server.
+2. PhantomJS headless webkit to interact with the ITS shift management website
 
 ### Prerequisites
 
 This program is based in python so make sure you have python 2.7 installed
 
-The 2 dependencies for this script are [PhantomJS](http://phantomjs.org/download.html), and [Selenium](http://selenium-python.readthedocs.io/installation.html). If you don't know how to computer, contact Alex from ITS and he'll give you advice.
+The 2 dependencies for this script are [PhantomJS](http://phantomjs.org/download.html), and [Selenium](http://selenium-python.readthedocs.io/installation.html). There are multiple youtube videos on how to install them
 
 Instructions
 ------------
 
 ### 1. Input your credentials
 
-Go to ```creds.json``` and under ```ITS``` and ```Outlook``` input your associated credentials. Since python is interpreted you can see the source code to make sure nothing malicious is being done with your information.
+Edit ```creds.json``` and input your associated credentials. 
 
 ### 2. Configure the settings
 
-Go to ```settings.json``` and modify the settings accordingly
+Edit ```settings.json``` and modify the settings accordingly
 
-* *active* is the number of seconds the program will stay active and listen for dropped and taken shifts
-* *logging* is a boolean value that will log via the terminal all of what coracle is thinking and doing
-* *email* is the email coracle will notify when a shift was been taken/dropped successfully. If you don't want it to notify you, you can take the parameter out of leave the email as ""
-* *refresh* is the time coracle will wait before it checks your email again for any new emails. WARNING if you make this time very small it may slow down your computer.   
-* *dates* is a subsetting where you will input your personal preferences on what times you want coracle to focus on
+* ***active*** is the number of seconds the program will stay active and listen for dropped and taken shifts
+* ***logging*** is a boolean value that will log via the terminal all of what coracle is thinking and doing
+* <del><b>*email*</b></del> (work in progress) <del>is the email coracle will notify when a shift was been taken/dropped successfully. If you don't want it to notify you, you can take the parameter out of leave the email as ""</del>
+* ***refresh*** is the time coracle will wait before it checks your email again for any new emails. WARNING if you make this time very small it may slow down your computer.   
+* ***dates*** is a subsetting where you will input your personal preferences on what times you want coracle to focus on
 
 ### Configuring dates
 
-*dates* may look complicated in ```settings.json``` but once you get the hang of the syntax, you'll set it up once and forget about it until you get lazy and want to change it back.
+***dates*** may look complicated in ```settings.json``` but once you get the hang of the syntax it is easy to maintain and change.
 
 The general syntax for a *date-range* setting looks as follows
 
@@ -69,13 +72,11 @@ With the proper settings in place made by the user you can run
 python coracle.py
 ``` 
 
-To run and initialize coracle to start listening for events and reacting. If you have your own settings/credentials you want to use, you can use ```-s <settings-file>``` to use your own settings file, and ```-c <credentials-file>``` to use your own credentials file
-
-
+If you have your own settings/credentials you want to use, you can use ```-s <settings-file>``` to use your own settings file, and ```-c <credentials-file>``` to use your own credentials file
 
 IMPORTANT FOR DEVELOPMENT
 
-make sure you cache a history
-get the users current schedule
-make sure settings times don't conflict with users schedule
-emails don't provide a location, make sure you check with ITS client if location is available
+* make sure you cache a history
+* get the users current schedule
+* make sure settings times don't conflict with users schedule
+* emails don't provide a location, make sure you check with ITS client if * location is available

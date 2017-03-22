@@ -3,7 +3,6 @@ import json
 import datetime
 import logging
 import logging.config
-from copy import deepcopy
 
 from ..constants import *
 from ..coracle_exceptions import ParseException
@@ -24,6 +23,7 @@ class File_Parser(object):
     def __init__(self, filepath=None, advanced_logging=False):
         self.filepath = None
         self.input_dict = None
+        if filepath != None:self.load(filepath) 
 
         self.parser_logger = logging.getLogger("parser")
         self.simple_logger = logging.getLogger("simple_log")
@@ -32,7 +32,6 @@ class File_Parser(object):
             self.simple_logger.handlers = [h for h in self.simple_logger.handlers if type(h) != logging.StreamHandler]
         else:
             self.parser_logger.handlers = [h for h in self.parser_logger.handlers if type(h) != logging.StreamHandler]
-        if filepath != None:self.load(filepath) 
 
     @staticmethod
     def json_to_dict(filepath):
@@ -290,14 +289,13 @@ class Settings_Parser(File_Parser):
         self.parser_logger.info("----Validating hours")
         try:
             hours = weekday["hours"]
-            new_hours = deepcopy(hours)
 
             if not isinstance(hours, dict):
                 self.parser_logger.error("Invalid type %s for 'hours'" % (type(hours)))
                 raise TypeError("'hours' must be a in 'dict' format in %s" % (self.filepath))
             for hour_key, actions in hours.iteritems():
                 hour_range = self.is_valid_hour_range(hour_key)
-                new_hours[hour_key+"_range"] = hour_range
+                weekday["hours"][hour_key+"_range"] = hour_range
                 self.parser_logger.info("------Validating actions")
                 if not isinstance(actions, list):
                     self.parser_logger.error("Invalid type %s for 'actions'" % (type(actions)))
@@ -305,7 +303,7 @@ class Settings_Parser(File_Parser):
                 if len(set(actions).difference(set(SHIFT_ACTIONS))) > 0:
                     self.parser_logger.error("Invalid action(s) %s for 'actions'" % (str(actions)))
                     raise ParseException("One or more acitons in %s are invalid" % (actions))
-            return new_hours
+            return hours
         except KeyError:
             self.parser_logger.error("Missing paramater 'hours' in %s" % (self.filepath))
             raise ParseException("'hours' argument is missing from %s" % (self.filepath))
@@ -318,17 +316,16 @@ class Settings_Parser(File_Parser):
         self.parser_logger.info("Validating dates")
         try:
             dates = self.get_dict()["dates"]
-            new_dates = deepcopy(dates)
             for date_key, date in dates.iteritems():
-                new_dates[date_key]["range"] = self.is_valid_date_range(date_key)
+                dates[date_key]["range"] = self.is_valid_date_range(date_key)
                 for weekday_key, weekday in date.iteritems():
                     self.parser_logger.info("--Validating Weekday")
                     weekday_key = str(weekday_key)
                     if weekday_key not in WEEKDAYS and weekday_key not in WEEKDAYS_INITIALS and weekday_key != "all":
                         self.parser_logger.error("Invalid weekday %s" % (weekday_key))
                         raise ParseException("weekday %s is not valid" % (weekday_key))
-                    new_dates[date_key][weekday_key] = self.is_valid_weekday(weekday)
-            self.input_dict["dates"] = new_dates
+                    dates[date_key][weekday_key] = self.is_valid_weekday(weekday)
+            self.input_dict = dates
         except KeyError, e:
             self.parser_logger.error("Missing paramater 'dates' in %s" % (self.filepath))
             raise ParseException("No 'dates' paramater set in " + self.filepath)
